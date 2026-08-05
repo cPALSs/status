@@ -10,9 +10,9 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Proposed Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn season bookend while GLF is paused. Incubating outreach; parade lead still open so LNY 2027 stay protected.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead now owned by Festivals Chair. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued.",
       "nextGate": {
-        "label": "Name parade lead",
+        "label": "Ship parental consent + transit intake form",
         "date": null
       },
       "links": [
@@ -27,25 +27,20 @@
       ],
       "finance": {
         "status": "green",
-        "gate": "Ops cash light",
-        "note": "Parade presence — no hosted-festival MVP cash. Transit / gift-card asks optional upgrades, not Core cancel triggers."
+        "gate": "No discretionary transit budget",
+        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely — not a Core cancel trigger if unpaid."
       },
       "staffing": {
         "status": "yellow",
-        "filled": ["Incubator (Festivals Chair temporary)"],
-        "open": ["Parade lead", "Most tribe champions", "Hub greeters"],
-        "note": "Core risk: parade lead still open. Student Wave 2 outreach underway; adult Wave 1 invites not launched."
+        "filled": ["Parade lead (Festivals Chair)"],
+        "open": ["Most tribe champions", "Hub greeters", "Adult / non-VSA Wave 1 outreachers"],
+        "note": "Lead seat filled. Student VSA outreach started; waiting on intake form before asking VSAs to distribute. Non-VSA org email wave not sent yet."
       },
       "criticalPath": [
         {
-          "id": "season-posture",
-          "label": "Board / Festivals: Mid-Autumn sister posture confirmed",
-          "status": "not_started"
-        },
-        {
           "id": "parade-lead",
-          "label": "Parade lead named (handoff from incubator)",
-          "status": "not_started"
+          "label": "Parade lead named",
+          "status": "done"
         },
         {
           "id": "host-coord",
@@ -53,9 +48,29 @@
           "status": "done"
         },
         {
-          "id": "subunit-register",
-          "label": "Subunit registration path briefed to marching orgs",
+          "id": "consent-form",
+          "label": "Parental consent + transit method intake form live",
+          "status": "not_started"
+        },
+        {
+          "id": "gh-register-instructions",
+          "label": "Clear Golden Harvest individual + group registration instructions published",
           "status": "in_progress"
+        },
+        {
+          "id": "gh-register-track",
+          "label": "Track subunit / individual GH registrations against expected orgs",
+          "status": "not_started"
+        },
+        {
+          "id": "vsa-distribute",
+          "label": "Ask VSAs to distribute intake form (after form is ready)",
+          "status": "not_started"
+        },
+        {
+          "id": "non-vsa-email",
+          "label": "Email remaining non-VSA orgs",
+          "status": "not_started"
         },
         {
           "id": "block-order",
@@ -63,7 +78,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-03"
+      "lastUpdated": "2026-08-04"
     },
     {
       "id": "apida-night-lights",
@@ -72,22 +87,22 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Sac State campus Mid-Autumn sister — cPALSs supports presence / decor, does not host. Tracker still thin; confirm booth or box needs with campus liaison.",
+      "summary": "Sac State campus Mid-Autumn sister — cPALSs has a canopy tent but no strong Gen Z activation plan yet. Water-lantern resale floated; thin product fit. Still waiting on Vu for booth registration process.",
       "nextGate": {
-        "label": "Confirm cPALSs support scope with campus liaison",
+        "label": "Booth registration process from Vu + choose activation",
         "date": null
       },
       "links": [],
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "No hosted festival budget. Decor lend / table costs only if scoped — not a project cash gate."
+        "note": "Canopy tent on hand. Any merchandise is optional; no hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "yellow",
-        "filled": ["Season liaison lane (Vu)"],
-        "open": ["Day-of table / decor owner (if cPALSs tables)"],
-        "note": "Host is Sac State APIDA Center. cPALSs staffing thin until support scope is written down."
+        "filled": ["Season liaison lane (Vu)", "Canopy / table hardware available"],
+        "open": ["Day-of table activation owner", "Activation concept owner"],
+        "note": "Hardware ahead of product. Need a table plan worth Gen Z attention before staffing day-of."
       },
       "criticalPath": [
         {
@@ -96,18 +111,28 @@
           "status": "done"
         },
         {
-          "id": "scope",
-          "label": "Written cPALSs support scope (table / decor / attend-only)",
-          "status": "not_started"
+          "id": "hardware",
+          "label": "Canopy / booth hardware identified",
+          "status": "done"
         },
         {
-          "id": "boxes",
-          "label": "Storage boxes / décor needs confirmed",
+          "id": "booth-process",
+          "label": "Booth registration process confirmed (via Vu)",
           "status": "in_progress"
         },
         {
+          "id": "activation",
+          "label": "Table activation plan chosen (not just cheap merchandise)",
+          "status": "at_risk"
+        },
+        {
+          "id": "booth-register",
+          "label": "Booth / table registered with host",
+          "status": "not_started"
+        },
+        {
           "id": "day-of-owner",
-          "label": "Day-of cPALSs owner named (if active support)",
+          "label": "Day-of cPALSs table owner named",
           "status": "not_started"
         }
       ],
@@ -118,11 +143,11 @@
       "name": "Toy Drive 2026",
       "season": "Toy Drive · 10th annual",
       "eventDate": "2026-12-06",
-      "eventDateLabel": "Sun Dec 6, 2026 (tentative)",
+      "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Free family celebration at District 56 with NVCC co-host. Sponsorship packet and director recruiting underway; season health tracker not yet instrumented — treat Core gates as early.",
+      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Volunteer interest posted to WhatsApp; follow-up response unclear.",
       "nextGate": {
-        "label": "Confirm District 56 hold + guest hours",
+        "label": "Deposit paid (councilmember cover path) + venue hold locked",
         "date": null
       },
       "links": [
@@ -137,20 +162,25 @@
       ],
       "finance": {
         "status": "yellow",
-        "gate": "MVP ops path",
-        "note": "Venue typically in-kind; dinner / Santa / crafts are gift-registry stories. Sponsorship pipeline open — cash path not yet board-grade green."
+        "gate": "Venue deposit cover",
+        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked."
       },
       "staffing": {
         "status": "yellow",
         "filled": ["Event chairs (named internally)", "NVCC co-host posture"],
-        "open": ["Multiple celebration director lanes"],
-        "note": "Idealist / team page recruiting directors. Treat Core director slate as still forming."
+        "open": ["Multiple celebration director lanes", "Volunteer outreach follow-up owner"],
+        "note": "WhatsApp ping for an interested volunteer went out; unclear whether anyone replied. Director slate still forming."
       },
       "criticalPath": [
         {
-          "id": "venue-hold",
-          "label": "District 56 venue hold confirmed",
-          "status": "in_progress"
+          "id": "venue-app",
+          "label": "District 56 Center application submitted",
+          "status": "done"
+        },
+        {
+          "id": "deposit",
+          "label": "Venue deposit paid or confirmed cover (councilmember path)",
+          "status": "at_risk"
         },
         {
           "id": "contract",
@@ -158,9 +188,14 @@
           "status": "not_started"
         },
         {
-          "id": "deposit",
-          "label": "Any required deposit or insurance COI on file",
-          "status": "not_started"
+          "id": "date-confirm",
+          "label": "Public date locked (Sunday after Illumination)",
+          "status": "in_progress"
+        },
+        {
+          "id": "volunteer-followup",
+          "label": "WhatsApp volunteer interest followed up",
+          "status": "in_progress"
         },
         {
           "id": "chair-slate",
@@ -182,9 +217,9 @@
       "eventDate": null,
       "eventDateLabel": "Weekend TBD (venue hard-gate)",
       "overall": "yellow",
-      "summary": "Primary festival season. Event Planning Tracker seeded with Core / Unlock / Extra. Venue weekend is the hard gate — awaiting host reply on available weekends before contract pathway.",
+      "summary": "CCSD emailed about available dates — waiting on reply. Date uncertainty blocks sponsorship packet outbound. Public team roster shows only four people with a role; WhatsApp membership is not role commitment.",
       "nextGate": {
-        "label": "Venue weekend selected → contract pathway",
+        "label": "CCSD date answer → pick weekend → unstick sponsorship packets",
         "date": null
       },
       "links": [
@@ -193,31 +228,45 @@
           "url": "https://eglny.com"
         },
         {
+          "label": "Team roster",
+          "url": "https://eglny.com/team/#roster"
+        },
+        {
           "label": "Fund The Festival",
           "url": "https://eglny.com/fund-the-festival/"
         }
       ],
       "finance": {
         "status": "yellow",
-        "gate": "Fund MVP Core",
-        "note": "Budget model and gift registry live. Steering cash gate not yet scored — do not treat as funded greenlight."
+        "gate": "Fund MVP Core (packets blocked)",
+        "note": "Budget model and gift registry exist, but sponsorship packets stay parked until the weekend is settled with CCSD."
       },
       "staffing": {
         "status": "yellow",
-        "filled": ["Season co-chair lane", "Tracker + recruiting window published"],
-        "open": ["Core director seats (recruiting window open)"],
-        "note": "Staffing bootstrap is explicit Core work. Recruiting close and staffing-budget due live on season Legend."
+        "filled": ["Season co-chair lane", "~4 named roles on public team roster"],
+        "open": ["Most Core director seats"],
+        "note": "Recruiting and confirming more named roles. Being in the LNY 2027 WhatsApp group does not equal a committed director seat — treat floaters as floaters."
       },
       "criticalPath": [
         {
+          "id": "venue-email",
+          "label": "CCSD availability email sent",
+          "status": "done"
+        },
+        {
           "id": "venue-availability",
-          "label": "Host weekend availability reconfirmed",
+          "label": "CCSD replies with available weekends",
           "status": "in_progress"
         },
         {
           "id": "weekend-pick",
           "label": "Steering picks weekend among available dates",
           "status": "not_started"
+        },
+        {
+          "id": "sponsor-packets",
+          "label": "Sponsorship packets unblocked for outbound",
+          "status": "at_risk"
         },
         {
           "id": "venue-contract",
@@ -231,7 +280,7 @@
         },
         {
           "id": "core-staff",
-          "label": "Core lanes staffed or contractor gaps costed",
+          "label": "Core lanes staffed (named roles beyond WhatsApp floaters)",
           "status": "in_progress"
         },
         {
