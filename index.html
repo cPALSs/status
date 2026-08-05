@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>cPALSs Project Health</title>
+  <meta name="description" content="High-level project health for cPALSs festivals and activations — on track, at risk, or headed toward no-go review." />
+  <link rel="canonical" href="https://cpalss.github.io/status/" />
+  <meta property="og:title" content="cPALSs Project Health" />
+  <meta property="og:description" content="Portfolio signal for board members and committee chairs — finance, staffing, and critical-path gates." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://cpalss.github.io/status/" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="robots" content="noindex, follow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="site.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="./">cPALSs <span>Project Health</span></a>
+      <p class="header-meta" id="portfolio-updated" hidden></p>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <p class="eyebrow">Internal signal · public scrubbed</p>
+      <h1 id="hero-title">Are we on track — or at risk of a no-go?</h1>
+      <p class="lede" id="hero-lede">
+        Portfolio view for board members and committee chairs. Overall color is the project-level signal, not how busy the team looks.
+      </p>
+    </section>
+
+    <section class="how-to" aria-labelledby="how-to-title">
+      <h2 id="how-to-title">How to read this page</h2>
+      <ol class="how-to-list">
+        <li><strong>Overall color</strong> = project go / at-risk / no-go review — not task busy-ness.</li>
+        <li>Missed nice-to-haves do not cancel a project. Missed <strong>Core</strong> finance, staffing, or compliance can.</li>
+        <li><strong>Yellow</strong> = act now while recoverable. <strong>Red</strong> = escalate (co-chairs → Festivals Committee → Board as needed).</li>
+        <li>This page is the <strong>signal</strong>. Season trackers and ops tools hold the work queue.</li>
+      </ol>
+      <div class="legend" role="list" aria-label="Status legend">
+        <div class="legend-item" role="listitem"><span class="rag rag-green" aria-hidden="true"></span><span><strong>Green</strong> — Core gates on track</span></div>
+        <div class="legend-item" role="listitem"><span class="rag rag-yellow" aria-hidden="true"></span><span><strong>Yellow</strong> — Core risk; recoverable</span></div>
+        <div class="legend-item" role="listitem"><span class="rag rag-red" aria-hidden="true"></span><span><strong>Red</strong> — Hard gate miss → no-go review</span></div>
+        <div class="legend-item" role="listitem"><span class="rag rag-hold" aria-hidden="true"></span><span><strong>Hold</strong> — Paused / not pursuing</span></div>
+      </div>
+    </section>
+
+    <section class="portfolio" aria-labelledby="portfolio-title">
+      <div class="section-head">
+        <h2 id="portfolio-title">Portfolio</h2>
+        <p class="section-sub">Select a project for finance, staffing, and critical-path detail.</p>
+      </div>
+      <div class="card-grid" id="card-grid" role="list"></div>
+    </section>
+
+    <section class="detail-panel" id="detail" aria-live="polite" hidden>
+      <div class="detail-inner">
+        <button type="button" class="detail-close" id="detail-close">Close</button>
+        <div id="detail-body"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Community Partners Advocate of Little Saigon Sacramento ·
+      <a href="https://www.cpalss.com">cpalss.com</a>
+    </p>
+    <p class="footer-note">
+      High-level statuses only. No bank balances, personal contact info, or private working docs on this page.
+      Edit <code>data/projects.json</code> in the
+      <a href="https://github.com/cPALSs/status">cPALSs/status</a> repo after Festival Projects Weekly or when a Core gate flips.
+    </p>
+  </footer>
+
+  <script src="site.js" type="module"></script>
+</body>
+</html>

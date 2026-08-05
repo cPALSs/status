@@ -1,0 +1,251 @@
+{
+  "updated": "2026-08-04",
+  "title": "cPALSs Project Health",
+  "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
+  "projects": [
+    {
+      "id": "lsk-golden-harvest",
+      "name": "LSK @ Golden Harvest",
+      "season": "Mid-Autumn 2026 · GLF paused",
+      "eventDate": "2026-10-24",
+      "eventDateLabel": "Sat Oct 24, 2026",
+      "overall": "yellow",
+      "summary": "Proposed Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn season bookend while GLF is paused. Incubating outreach; parade lead still open so LNY 2027 stay protected.",
+      "nextGate": {
+        "label": "Name parade lead",
+        "date": null
+      },
+      "links": [
+        {
+          "label": "Krewe site",
+          "url": "https://krewe.cpalss.com/"
+        },
+        {
+          "label": "Golden Harvest Parade",
+          "url": "https://goldenharvestparade.org"
+        }
+      ],
+      "finance": {
+        "status": "green",
+        "gate": "Ops cash light",
+        "note": "Parade presence — no hosted-festival MVP cash. Transit / gift-card asks optional upgrades, not Core cancel triggers."
+      },
+      "staffing": {
+        "status": "yellow",
+        "filled": ["Incubator (Festivals Chair temporary)"],
+        "open": ["Parade lead", "Most tribe champions", "Hub greeters"],
+        "note": "Core risk: parade lead still open. Student Wave 2 outreach underway; adult Wave 1 invites not launched."
+      },
+      "criticalPath": [
+        {
+          "id": "season-posture",
+          "label": "Board / Festivals: Mid-Autumn sister posture confirmed",
+          "status": "not_started"
+        },
+        {
+          "id": "parade-lead",
+          "label": "Parade lead named (handoff from incubator)",
+          "status": "not_started"
+        },
+        {
+          "id": "host-coord",
+          "label": "Host coordinator sequencing answers received",
+          "status": "done"
+        },
+        {
+          "id": "subunit-register",
+          "label": "Subunit registration path briefed to marching orgs",
+          "status": "in_progress"
+        },
+        {
+          "id": "block-order",
+          "label": "LSK block order set with host (early October)",
+          "status": "not_started"
+        }
+      ],
+      "lastUpdated": "2026-08-03"
+    },
+    {
+      "id": "apida-night-lights",
+      "name": "APIDA Night Lights",
+      "season": "Mid-Autumn 2026 · GLF paused",
+      "eventDate": "2026-09-21",
+      "eventDateLabel": "Mon Sep 21, 2026",
+      "overall": "yellow",
+      "summary": "Sac State campus Mid-Autumn sister — cPALSs supports presence / decor, does not host. Tracker still thin; confirm booth or box needs with campus liaison.",
+      "nextGate": {
+        "label": "Confirm cPALSs support scope with campus liaison",
+        "date": null
+      },
+      "links": [],
+      "finance": {
+        "status": "green",
+        "gate": "Support-only spend",
+        "note": "No hosted festival budget. Decor lend / table costs only if scoped — not a project cash gate."
+      },
+      "staffing": {
+        "status": "yellow",
+        "filled": ["Season liaison lane (Vu)"],
+        "open": ["Day-of table / decor owner (if cPALSs tables)"],
+        "note": "Host is Sac State APIDA Center. cPALSs staffing thin until support scope is written down."
+      },
+      "criticalPath": [
+        {
+          "id": "date-hold",
+          "label": "Event date on season map",
+          "status": "done"
+        },
+        {
+          "id": "scope",
+          "label": "Written cPALSs support scope (table / decor / attend-only)",
+          "status": "not_started"
+        },
+        {
+          "id": "boxes",
+          "label": "Storage boxes / décor needs confirmed",
+          "status": "in_progress"
+        },
+        {
+          "id": "day-of-owner",
+          "label": "Day-of cPALSs owner named (if active support)",
+          "status": "not_started"
+        }
+      ],
+      "lastUpdated": "2026-08-04"
+    },
+    {
+      "id": "toy-drive-2026",
+      "name": "Toy Drive 2026",
+      "season": "Toy Drive · 10th annual",
+      "eventDate": "2026-12-06",
+      "eventDateLabel": "Sun Dec 6, 2026 (tentative)",
+      "overall": "yellow",
+      "summary": "Free family celebration at District 56 with NVCC co-host. Sponsorship packet and director recruiting underway; season health tracker not yet instrumented — treat Core gates as early.",
+      "nextGate": {
+        "label": "Confirm District 56 hold + guest hours",
+        "date": null
+      },
+      "links": [
+        {
+          "label": "Event hub",
+          "url": "https://elkgrovetoydrive.com"
+        },
+        {
+          "label": "Team / open roles",
+          "url": "https://elkgrovetoydrive.com/team/"
+        }
+      ],
+      "finance": {
+        "status": "yellow",
+        "gate": "MVP ops path",
+        "note": "Venue typically in-kind; dinner / Santa / crafts are gift-registry stories. Sponsorship pipeline open — cash path not yet board-grade green."
+      },
+      "staffing": {
+        "status": "yellow",
+        "filled": ["Event chairs (named internally)", "NVCC co-host posture"],
+        "open": ["Multiple celebration director lanes"],
+        "note": "Idealist / team page recruiting directors. Treat Core director slate as still forming."
+      },
+      "criticalPath": [
+        {
+          "id": "venue-hold",
+          "label": "District 56 venue hold confirmed",
+          "status": "in_progress"
+        },
+        {
+          "id": "contract",
+          "label": "Venue agreement / rental paperwork signed",
+          "status": "not_started"
+        },
+        {
+          "id": "deposit",
+          "label": "Any required deposit or insurance COI on file",
+          "status": "not_started"
+        },
+        {
+          "id": "chair-slate",
+          "label": "Core celebration directors seated or contractor gaps costed",
+          "status": "in_progress"
+        },
+        {
+          "id": "charity-partners",
+          "label": "Charity / toy intake partners confirmed",
+          "status": "not_started"
+        }
+      ],
+      "lastUpdated": "2026-08-04"
+    },
+    {
+      "id": "lny-2027",
+      "name": "Lunar New Year 2027",
+      "season": "LNY · Elk Grove",
+      "eventDate": null,
+      "eventDateLabel": "Weekend TBD (venue hard-gate)",
+      "overall": "yellow",
+      "summary": "Primary festival season. Event Planning Tracker seeded with Core / Unlock / Extra. Venue weekend is the hard gate — awaiting host reply on available weekends before contract pathway.",
+      "nextGate": {
+        "label": "Venue weekend selected → contract pathway",
+        "date": null
+      },
+      "links": [
+        {
+          "label": "EGLNY hub",
+          "url": "https://eglny.com"
+        },
+        {
+          "label": "Fund The Festival",
+          "url": "https://eglny.com/fund-the-festival/"
+        }
+      ],
+      "finance": {
+        "status": "yellow",
+        "gate": "Fund MVP Core",
+        "note": "Budget model and gift registry live. Steering cash gate not yet scored — do not treat as funded greenlight."
+      },
+      "staffing": {
+        "status": "yellow",
+        "filled": ["Season co-chair lane", "Tracker + recruiting window published"],
+        "open": ["Core director seats (recruiting window open)"],
+        "note": "Staffing bootstrap is explicit Core work. Recruiting close and staffing-budget due live on season Legend."
+      },
+      "criticalPath": [
+        {
+          "id": "venue-availability",
+          "label": "Host weekend availability reconfirmed",
+          "status": "in_progress"
+        },
+        {
+          "id": "weekend-pick",
+          "label": "Steering picks weekend among available dates",
+          "status": "not_started"
+        },
+        {
+          "id": "venue-contract",
+          "label": "Venue contract pathway / agreement signed",
+          "status": "not_started"
+        },
+        {
+          "id": "venue-deposit",
+          "label": "Venue deposit made (if required)",
+          "status": "not_started"
+        },
+        {
+          "id": "core-staff",
+          "label": "Core lanes staffed or contractor gaps costed",
+          "status": "in_progress"
+        },
+        {
+          "id": "mvp-cash",
+          "label": "MVP ops cash committed with buffer",
+          "status": "not_started"
+        },
+        {
+          "id": "permits",
+          "label": "Permits / insurance / agreement deliverables on dated path",
+          "status": "not_started"
+        }
+      ],
+      "lastUpdated": "2026-08-04"
+    }
+  ]
+}
