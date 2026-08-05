@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -74,9 +74,9 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead now owned by Festivals Chair. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued. Shared insurance stack with Toy Drive + LNY still needs quotes.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead owned by Festivals Chair. Cosumnes Oaks faculty advisor replied (asked for VSA response deadline); Florin VSA already interested. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued. Shared insurance stack with Toy Drive + LNY still needs quotes.",
       "nextGate": {
-        "label": "Ship parental consent + transit intake form",
+        "label": "Give COHS a clear response deadline + ship parental consent + transit intake form",
         "date": null
       },
       "links": [
@@ -104,7 +104,7 @@
           "Hub greeters",
           "Adult / non-VSA Wave 1 outreachers"
         ],
-        "note": "Lead seat filled. Student VSA outreach started; waiting on intake form before asking VSAs to distribute. Non-VSA org email wave not sent yet."
+        "note": "Lead seat filled. Student VSA outreach underway — COHS advisor engaged; waiting on intake form before asking VSAs to distribute. Non-VSA org email wave not sent yet."
       },
       "criticalPath": [
         {
@@ -153,7 +153,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-04"
+      "lastUpdated": "2026-08-05"
     },
     {
       "id": "toy-drive-2026",
@@ -162,7 +162,7 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Volunteer interest posted to WhatsApp; follow-up response unclear. NVCC is a standing co-host with cPALSs (not optional).",
+      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Idealist director applicant (since mid-July) chased chairs for contact — follow-up still owed. Venue window discussion converging on a 10 AM–10 PM rental buffer. NVCC is a standing co-host with cPALSs (not optional).",
       "nextGate": {
         "label": "Deposit paid (councilmember cover path) + venue hold locked",
         "date": null
@@ -190,9 +190,9 @@
         ],
         "open": [
           "Multiple celebration director lanes",
-          "Volunteer outreach follow-up owner"
+          "Chair response to Idealist director applicant(s)"
         ],
-        "note": "NVCC co-hosts with cPALSs by posture, not a recruit ask. WhatsApp ping for an interested volunteer went out; unclear whether anyone replied. Director slate still forming."
+        "note": "NVCC co-hosts with cPALSs by posture, not a recruit ask. At least one Idealist director applicant has waited 2+ weeks for a chair reply. Director slate still forming."
       },
       "criticalPath": [
         {
@@ -222,8 +222,8 @@
         },
         {
           "id": "volunteer-followup",
-          "label": "WhatsApp volunteer interest followed up",
-          "status": "in_progress"
+          "label": "Idealist / volunteer director applicants followed up by chairs",
+          "status": "at_risk"
         },
         {
           "id": "chair-slate",
@@ -236,7 +236,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-04"
+      "lastUpdated": "2026-08-05"
     },
     {
       "id": "lny-2027",
@@ -245,7 +245,7 @@
       "eventDate": null,
       "eventDateLabel": "Weekend TBD (venue hard-gate)",
       "overall": "yellow",
-      "summary": "CCSD emailed about available dates — waiting on reply. Date uncertainty blocks sponsorship packet outbound. Public team roster shows only four people with a role; WhatsApp membership is not role commitment.",
+      "summary": "CCSD availability reconfirm + Jan 30–31 ask sent (Aug 3–4); still waiting on Elizabeth’s substantive reply after OOO. Date uncertainty blocks sponsorship packet outbound. Public team roster shows only four people with a role; WhatsApp membership is not role commitment.",
       "nextGate": {
         "label": "CCSD date answer → pick weekend → unstick sponsorship packets",
         "date": null
@@ -333,7 +333,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-04"
+      "lastUpdated": "2026-08-05"
     }
   ]
 }
