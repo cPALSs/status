@@ -162,7 +162,7 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Idealist director applicant (since mid-July) chased chairs for contact — follow-up still owed. Venue window discussion converging on a 10 AM–10 PM rental buffer. NVCC is a standing co-host with cPALSs (not optional).",
+      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Vivian Vu is sole cPALSs chair (Mamie stepped back from co-chair). Idealist director applicant follow-up still owed. Chocolate / hot-cocoa Fund the Fete slot open — prior in-kind sponsor not returning. Venue window discussion converging on a 10 AM–10 PM rental buffer. NVCC is a standing co-host with cPALSs (not optional).",
       "nextGate": {
         "label": "Deposit paid (councilmember cover path) + venue hold locked",
         "date": null
@@ -180,19 +180,19 @@
       "finance": {
         "status": "yellow",
         "gate": "Venue deposit cover",
-        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked. Insurance premiums sit in the same shared CGL/umbrella quote stack as LSK + LNY."
+        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked. Chocolate / hot-cocoa station gift needs a new sponsor (prior in-kind path not returning). Insurance premiums sit in the same shared CGL/umbrella quote stack as LSK + LNY."
       },
       "staffing": {
         "status": "yellow",
         "filled": [
-          "Event chairs (named internally)",
+          "Event chair — Vivian Vu (sole cPALSs chair)",
           "NVCC co-host (standing — always with cPALSs)"
         ],
         "open": [
           "Multiple celebration director lanes",
           "Chair response to Idealist director applicant(s)"
         ],
-        "note": "NVCC co-hosts with cPALSs by posture, not a recruit ask. At least one Idealist director applicant has waited 2+ weeks for a chair reply. Director slate still forming."
+        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. NVCC co-hosts with cPALSs by posture, not a recruit ask. At least one Idealist director applicant has waited 2+ weeks for a chair reply. Director slate still forming."
       },
       "criticalPath": [
         {
