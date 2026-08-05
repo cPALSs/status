@@ -10,7 +10,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead now owned by Festivals Chair. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead now owned by Festivals Chair. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued. Shared insurance stack with Toy Drive + LNY still needs quotes.",
       "nextGate": {
         "label": "Ship parental consent + transit intake form",
         "date": null
@@ -28,7 +28,7 @@
       "finance": {
         "status": "green",
         "gate": "No discretionary transit budget",
-        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely — not a Core cancel trigger if unpaid."
+        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely. Separate open: umbrella + CGL adequacy / multi-event quote (shared with Toy Drive + LNY)."
       },
       "staffing": {
         "status": "yellow",
@@ -70,6 +70,11 @@
         {
           "id": "non-vsa-email",
           "label": "Email remaining non-VSA orgs",
+          "status": "not_started"
+        },
+        {
+          "id": "insurance-stack",
+          "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with Toy Drive + LNY)",
           "status": "not_started"
         },
         {
@@ -163,7 +168,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Venue deposit cover",
-        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked."
+        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked. Insurance premiums sit in the same shared CGL/umbrella quote stack as LSK + LNY."
       },
       "staffing": {
         "status": "yellow",
@@ -185,6 +190,11 @@
         {
           "id": "contract",
           "label": "Venue agreement / rental paperwork signed",
+          "status": "not_started"
+        },
+        {
+          "id": "insurance-stack",
+          "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with LSK + LNY)",
           "status": "not_started"
         },
         {
@@ -279,6 +289,11 @@
           "status": "not_started"
         },
         {
+          "id": "insurance-stack",
+          "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with LSK + Toy Drive)",
+          "status": "not_started"
+        },
+        {
           "id": "core-staff",
           "label": "Core lanes staffed (named roles beyond WhatsApp floaters)",
           "status": "in_progress"
@@ -290,7 +305,7 @@
         },
         {
           "id": "permits",
-          "label": "Permits / insurance / agreement deliverables on dated path",
+          "label": "Permits / COIs / agreement deliverables on dated path",
           "status": "not_started"
         }
       ],
