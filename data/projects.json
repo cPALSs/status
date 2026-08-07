@@ -10,9 +10,9 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Sac State campus Mid-Autumn sister — canopy on hand; Gen Z activation still thin. Maker consignment (Jen) floated but blocked until booth/table agreement path is clear. Written ask to Vu (Aug 5) on what to sign, when, and micro-retail constraints — still waiting.",
+      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7). Survey signup link expected early next week — no fee. Official CSUS page live; GLF season link updated. Canopy on hand; Gen Z activation still thin. Jen consignment unblocked once survey lands.",
       "nextGate": {
-        "label": "Booth agreement path from Vu + choose activation",
+        "label": "Complete vendor survey + choose table activation",
         "date": null
       },
       "links": [],
@@ -47,7 +47,7 @@
         {
           "id": "booth-process",
           "label": "Booth registration process confirmed (via Vu)",
-          "status": "in_progress"
+          "status": "done"
         },
         {
           "id": "activation",
@@ -57,7 +57,7 @@
         {
           "id": "booth-register",
           "label": "Booth / table registered with host",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "day-of-owner",
