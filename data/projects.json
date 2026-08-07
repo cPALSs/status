@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-07",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,9 +10,9 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Sac State campus Mid-Autumn sister — cPALSs has a canopy tent but no strong Gen Z activation plan yet. Water-lantern resale floated; thin product fit. Still waiting on Vu for booth registration process.",
+      "summary": "Sac State campus Mid-Autumn sister — canopy on hand; Gen Z activation still thin. Maker consignment (Jen) floated but blocked until booth/table agreement path is clear. Written ask to Vu (Aug 5) on what to sign, when, and micro-retail constraints — still waiting.",
       "nextGate": {
-        "label": "Booth registration process from Vu + choose activation",
+        "label": "Booth agreement path from Vu + choose activation",
         "date": null
       },
       "links": [],
@@ -65,7 +65,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-04"
+      "lastUpdated": "2026-08-07"
     },
     {
       "id": "lsk-golden-harvest",
@@ -74,7 +74,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall — Mid-Autumn bookend while GLF is paused. Parade lead owned by Festivals Chair. Cosumnes Oaks faculty advisor replied (asked for VSA response deadline); Florin VSA already interested. Next hard work: youth consent + transit intake form, clear Golden Harvest registration instructions, then VSA distribute; non-VSA org emails still queued. Shared insurance stack with Toy Drive + LNY still needs quotes.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Florin VSA still in (Asian Club will GH-register later); icebreaker champs Henry + Abran on roster. COHS soft-commit deadline Fri Aug 28. Next hard work: youth consent + transit intake form, then VSA distribute; non-VSA org emails still queued. Multi-event CGL + umbrella quote submitted to broker (awaiting carrier).",
       "nextGate": {
         "label": "Soft-commit wave by Aug 28 + ship parental consent + transit intake",
         "date": "2026-08-28"
@@ -92,19 +92,20 @@
       "finance": {
         "status": "green",
         "gate": "No discretionary transit budget",
-        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely. Separate open: umbrella + CGL adequacy / multi-event quote (shared with Toy Drive + LNY)."
+        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely. Separate open: umbrella + CGL adequacy / multi-event quote (shared with Toy Drive + LNY) — broker acknowledged; portal primary compares still open."
       },
       "staffing": {
         "status": "yellow",
         "filled": [
-          "Parade lead (Festivals Chair)"
+          "Parade lead (Festivals Chair)",
+          "Florin icebreaker champs (Henry + Abran)"
         ],
         "open": [
           "Most tribe champions",
           "Hub greeters",
           "Adult / non-VSA Wave 1 outreachers"
         ],
-        "note": "Lead seat filled. Student VSA outreach underway — COHS advisor engaged; waiting on intake form before asking VSAs to distribute. Non-VSA org email wave not sent yet."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS advisor engaged on Aug 28 soft-commit. Waiting on intake form before asking VSAs to distribute. Non-VSA org email wave not sent yet."
       },
       "criticalPath": [
         {
@@ -120,7 +121,7 @@
         {
           "id": "consent-form",
           "label": "Parental consent + transit method intake form live",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "gh-register-instructions",
@@ -145,7 +146,7 @@
         {
           "id": "insurance-stack",
           "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with Toy Drive + LNY)",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "block-order",
@@ -153,7 +154,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-05"
+      "lastUpdated": "2026-08-07"
     },
     {
       "id": "toy-drive-2026",
@@ -162,7 +163,7 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "District 56 Center application submitted; deposit still owed — coordinating a city councilmember ask to cover that cost. Vivian Vu is sole cPALSs chair (Mamie stepped back from co-chair). Idealist director applicant follow-up still owed. Chocolate / hot-cocoa Fund the Fete slot open — prior in-kind sponsor not returning. Venue window discussion converging on a 10 AM–10 PM rental buffer. NVCC is a standing co-host with cPALSs (not optional).",
+      "summary": "District 56 Center application submitted; deposit still owed — councilmember cover path open. IRS determination letter packet handed to Vivian for venue. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact forwarded to Vivian (preferred SMS) — chair reply still owed. Chocolate / hot-cocoa Fund the Fete slot open. Venue window leaning 10 AM–10 PM rental buffer. NVCC standing co-host.",
       "nextGate": {
         "label": "Deposit paid (councilmember cover path) + venue hold locked",
         "date": null
@@ -180,7 +181,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Venue deposit cover",
-        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Do not treat venue as greenlit until deposit / cover is locked. Chocolate / hot-cocoa station gift needs a new sponsor (prior in-kind path not returning). Insurance premiums sit in the same shared CGL/umbrella quote stack as LSK + LNY."
+        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Determination letter (old address) with Vivian for District 56. Do not treat venue as greenlit until deposit / cover is locked. Chocolate / hot-cocoa station gift needs a new sponsor. Insurance in shared CGL/umbrella stack — broker acknowledged."
       },
       "staffing": {
         "status": "yellow",
@@ -192,7 +193,7 @@
           "Multiple celebration director lanes",
           "Chair response to Idealist director applicant(s)"
         ],
-        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. NVCC co-hosts with cPALSs by posture, not a recruit ask. At least one Idealist director applicant has waited 2+ weeks for a chair reply. Director slate still forming."
+        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. Cindy Chan (Kids Games / Crafts / Registration interest) phone + preferred-SMS note with Vivian — chair contact still open. Director slate still forming."
       },
       "criticalPath": [
         {
@@ -213,7 +214,7 @@
         {
           "id": "insurance-stack",
           "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with LSK + LNY)",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "date-confirm",
@@ -236,19 +237,19 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-05"
+      "lastUpdated": "2026-08-07"
     },
     {
       "id": "lny-2027",
       "name": "Lunar New Year 2027",
       "season": "LNY · Elk Grove",
       "eventDate": null,
-      "eventDateLabel": "Weekend TBD (venue hard-gate)",
+      "eventDateLabel": "Weekend TBD — A/B only (CCSD inventory)",
       "overall": "yellow",
-      "summary": "CCSD availability reconfirm + Jan 30–31 ask sent (Aug 3–4); still waiting on Elizabeth’s substantive reply after OOO. Date uncertainty blocks sponsorship packet outbound. Public team roster shows only four people with a role; WhatsApp membership is not role commitment.",
+      "summary": "CCSD inventory locked Aug 6: only Feb 13–14 or Feb 27–28 (Jan 30–31 / Feb 6–7 / Feb 20–21 blocked by Pavilion weddings). Agreement ready to draft under VACOS once steering picks. Soft chat lean toward Option A noted — formal pick held for Mon Aug 10 Festivals Meeting, then confirm to Elizabeth. Sponsorship packets stay parked until weekend is named. Public roster still thin; WhatsApp ≠ director seat.",
       "nextGate": {
-        "label": "CCSD date answer → pick weekend → unstick sponsorship packets",
-        "date": null
+        "label": "Mon Aug 10 Festivals Meeting picks A or B → Bao confirms to Elizabeth → agreement draft",
+        "date": "2026-08-10"
       },
       "links": [
         {
@@ -267,7 +268,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Fund MVP Core (packets blocked)",
-        "note": "Budget model and gift registry exist, but sponsorship packets stay parked until the weekend is settled with CCSD."
+        "note": "Budget model and gift registry exist, but sponsorship packets stay parked until the weekend is named and confirmed with CCSD."
       },
       "staffing": {
         "status": "yellow",
@@ -290,12 +291,12 @@
         {
           "id": "venue-availability",
           "label": "CCSD replies with available weekends",
-          "status": "in_progress"
+          "status": "done"
         },
         {
           "id": "weekend-pick",
           "label": "Steering picks weekend among available dates",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "sponsor-packets",
@@ -315,7 +316,7 @@
         {
           "id": "insurance-stack",
           "label": "Umbrella quote + confirm CGL (or shared multi-event CGL with LSK + Toy Drive)",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "core-staff",
@@ -333,7 +334,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-05"
+      "lastUpdated": "2026-08-07"
     }
   ]
 }
