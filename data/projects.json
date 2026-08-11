@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-11",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,7 +10,7 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7). Survey signup link expected early next week — no fee. Official CSUS page live; GLF season link updated. Canopy on hand; Gen Z activation still thin. Jen consignment unblocked once survey lands.",
+      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7–8). Vendor survey signup expected this week — no fee. Official CSUS page live; GLF season link updated. Canopy on hand; Gen Z activation still thin. Jen consignment unblocked once survey lands.",
       "nextGate": {
         "label": "Complete vendor survey + choose table activation",
         "date": null
@@ -65,7 +65,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-07"
+      "lastUpdated": "2026-08-11"
     },
     {
       "id": "lsk-golden-harvest",
@@ -74,7 +74,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Florin VSA still in (Asian Club will GH-register later); icebreaker champs Henry + Abran on roster. COHS soft-commit deadline Fri Aug 28. Next hard work: youth consent + transit intake form, then VSA distribute; non-VSA org emails still queued. Multi-event CGL + umbrella quote submitted to broker (awaiting carrier).",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Florin VSA still in (Asian Club will GH-register later); icebreaker champs Henry + Abran on roster. COHS soft-commit deadline Fri Aug 28. Next hard work: youth consent + transit intake form, then VSA distribute; non-VSA org emails still queued. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
       "nextGate": {
         "label": "Soft-commit wave by Aug 28 + ship parental consent + transit intake",
         "date": "2026-08-28"
@@ -154,7 +154,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-07"
+      "lastUpdated": "2026-08-11"
     },
     {
       "id": "toy-drive-2026",
@@ -163,7 +163,7 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "District 56 Center application submitted; deposit still owed — councilmember cover path open. IRS determination letter packet handed to Vivian for venue. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact forwarded to Vivian (preferred SMS) — chair reply still owed. Chocolate / hot-cocoa Fund the Fete slot open. Venue window leaning 10 AM–10 PM rental buffer. NVCC standing co-host.",
+      "summary": "District 56 Center application submitted; deposit still owed — councilmember cover path open. IRS determination letter packet with Vivian for venue. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) — chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. Venue window leaning 10 AM–10 PM rental buffer. NVCC standing co-host.",
       "nextGate": {
         "label": "Deposit paid (councilmember cover path) + venue hold locked",
         "date": null
@@ -237,19 +237,19 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-07"
+      "lastUpdated": "2026-08-11"
     },
     {
       "id": "lny-2027",
       "name": "Lunar New Year 2027",
       "season": "LNY · Elk Grove",
-      "eventDate": null,
-      "eventDateLabel": "Weekend TBD — A/B only (CCSD inventory)",
+      "eventDate": "2027-02-13",
+      "eventDateLabel": "Sat–Sun Feb 13–14, 2027 · Tết Tailgate Sunday",
       "overall": "yellow",
-      "summary": "CCSD inventory locked Aug 6: only Feb 13–14 or Feb 27–28 (Jan 30–31 / Feb 6–7 / Feb 20–21 blocked by Pavilion weddings). Agreement ready to draft under VACOS once steering picks. Soft chat lean toward Option A noted — formal pick held for Mon Aug 10 Festivals Meeting, then confirm to Elizabeth. Sponsorship packets stay parked until weekend is named. Public roster still thin; WhatsApp ≠ director seat.",
+      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate (Festivals Meeting Aug 10). Bao confirmed to Elizabeth Aug 10; awaiting agreement draft under VACOS (next: layout + schedule). Sponsorship packets unblocked this week for Sky River + past sponsors. Parking/security/transit planning now on critical path. Public roster still thin; WhatsApp ≠ director seat.",
       "nextGate": {
-        "label": "Mon Aug 10 Festivals Meeting picks A or B → Bao confirms to Elizabeth → agreement draft",
-        "date": "2026-08-10"
+        "label": "CCSD agreement path (layout + schedule) + finish sponsorship packet this week",
+        "date": null
       },
       "links": [
         {
@@ -267,8 +267,8 @@
       ],
       "finance": {
         "status": "yellow",
-        "gate": "Fund MVP Core (packets blocked)",
-        "note": "Budget model and gift registry exist, but sponsorship packets stay parked until the weekend is named and confirmed with CCSD."
+        "gate": "Fund MVP Core (packets live this week)",
+        "note": "Weekend named — sponsorship packets unblocked for outbound this week (Sky River + past sponsors). Still need MVP cash commitments once packets land."
       },
       "staffing": {
         "status": "yellow",
@@ -278,7 +278,8 @@
           "~4 named roles on public team roster"
         ],
         "open": [
-          "Most Core director seats"
+          "Most Core director seats",
+          "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
         "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Being in the LNY 2027 WhatsApp group does not equal a committed director seat — treat floaters as floaters."
       },
@@ -296,17 +297,17 @@
         {
           "id": "weekend-pick",
           "label": "Steering picks weekend among available dates",
-          "status": "in_progress"
+          "status": "done"
         },
         {
           "id": "sponsor-packets",
           "label": "Sponsorship packets unblocked for outbound",
-          "status": "at_risk"
+          "status": "in_progress"
         },
         {
           "id": "venue-contract",
           "label": "Venue contract pathway / agreement signed",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "venue-deposit",
@@ -334,7 +335,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-07"
+      "lastUpdated": "2026-08-11"
     }
   ]
 }
