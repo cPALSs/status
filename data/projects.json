@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -246,9 +246,9 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate (Festivals Meeting Aug 10). Bao confirmed to Elizabeth Aug 10; awaiting agreement draft under VACOS (next: layout + schedule). Sponsorship packets unblocked this week for Sky River + past sponsors. Parking/security/transit planning now on critical path. Public roster still thin; WhatsApp \u2260 director seat.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Kevin OK\u2019d NVCC Board Member listing (Aug 11); warm-sponsor outbound wave sent Aug 11 eve. SMUD + Supervisor Hume office acked receipt (Aug 12); Kaiser points to Oct 1\u201331 Mosaic application window. Sky River still Vivian\u2192POC. Awaiting Elizabeth on VACOS agreement (layout + schedule). Idealist sponsorship-packet designer applicant in; public roster still thin.",
       "nextGate": {
-        "label": "CCSD agreement path (layout + schedule) + finish sponsorship packet this week",
+        "label": "CCSD agreement (layout + schedule) + Sky River send + screen designer applicant",
         "date": null
       },
       "links": [
@@ -267,18 +267,20 @@
       ],
       "finance": {
         "status": "yellow",
-        "gate": "Fund MVP Core (packets live this week)",
-        "note": "Weekend named \u2014 sponsorship packets unblocked for outbound this week (Sky River + past sponsors). Still need MVP cash commitments once packets land."
+        "gate": "Fund MVP Core (outbound live; commits pending)",
+        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Early receipts only (SMUD / Hume office). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
       },
       "staffing": {
         "status": "yellow",
         "filled": [
           "Season co-chair lane",
           "NVCC co-host (standing \u2014 always with cPALSs)",
+          "Kevin OK as NVCC Board Member on packet",
           "~4 named roles on public team roster"
         ],
         "open": [
           "Most Core director seats",
+          "Sponsorship packet graphic designer (Idealist applicant screening)",
           "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
         "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
@@ -301,7 +303,7 @@
         },
         {
           "id": "sponsor-packets",
-          "label": "Sponsorship packets unblocked for outbound",
+          "label": "Sponsorship outbound wave 1 (warm leads) + Sky River",
           "status": "in_progress"
         },
         {
@@ -335,7 +337,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-11"
+      "lastUpdated": "2026-08-12"
     }
   ]
 }
