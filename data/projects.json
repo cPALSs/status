@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -74,7 +74,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Florin VSA still in (Asian Club will GH-register later); icebreaker champs Henry + Abran on roster. COHS soft-commit deadline Fri Aug 28. Parental consent + transit intake: Bao designs content; waiting on David for prototype intake/clearance system before VSA distribute. Non-VSA org emails still queued. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Adult / non-VSA Wave 1 remainder emailed Aug 13 (soft-commit Fri Aug 28). AABC soft-yes; Red Lotus lion team still interested (headcount TBD). Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
       "nextGate": {
         "label": "David prototype + Bao consent/transit design \u2192 ship intake; soft-commit by Aug 28",
         "date": "2026-08-28"
@@ -103,9 +103,9 @@
         "open": [
           "Most tribe champions",
           "Hub greeters",
-          "Adult / non-VSA Wave 1 outreachers"
+          "Remaining Wave 1 replies (soft-commit Aug 28)"
         ],
-        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS advisor engaged on Aug 28 soft-commit. Intake form: Bao = content design; David = prototype system (Ops CRM PRD sent). Non-VSA org email wave not sent yet."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS advisor engaged on Aug 28 soft-commit. Intake form: Bao = content design; David = prototype system (Ops CRM PRD sent). Adult Wave 1 remainder emailed Aug 13; AABC soft-yes; Red Lotus still in."
       },
       "criticalPath": [
         {
@@ -141,7 +141,7 @@
         {
           "id": "non-vsa-email",
           "label": "Email remaining non-VSA orgs",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "insurance-stack",
@@ -154,7 +154,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-11"
+      "lastUpdated": "2026-08-13"
     },
     {
       "id": "toy-drive-2026",
@@ -246,9 +246,9 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Kevin OK\u2019d NVCC Board Member listing (Aug 11); warm-sponsor outbound wave sent Aug 11 eve. SMUD + Supervisor Hume office acked receipt (Aug 12); Kaiser points to Oct 1\u201331 Mosaic application window. Sky River still Vivian\u2192POC. Awaiting Elizabeth on VACOS agreement (layout + schedule). Idealist sponsorship-packet designer applicant in; public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Awaiting Elizabeth on VACOS agreement (layout + schedule). Two Idealist sponsorship-packet designer applicants in screening (Rashmi + Amber). Public roster still thin.",
       "nextGate": {
-        "label": "CCSD agreement (layout + schedule) + Sky River send + screen designer applicant",
+        "label": "CCSD agreement (layout + schedule) + Sky River send + screen designer applicants",
         "date": null
       },
       "links": [
@@ -268,7 +268,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Fund MVP Core (outbound live; commits pending)",
-        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Early receipts only (SMUD / Hume office). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
+        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Early receipts (SMUD / Hume / Anthem Dec / Metro soft-return Nov). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
       },
       "staffing": {
         "status": "yellow",
@@ -280,7 +280,7 @@
         ],
         "open": [
           "Most Core director seats",
-          "Sponsorship packet graphic designer (Idealist applicant screening)",
+          "Sponsorship packet graphic designer (2 Idealist applicants screening)",
           "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
         "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
@@ -337,7 +337,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-12"
+      "lastUpdated": "2026-08-13"
     }
   ]
 }
