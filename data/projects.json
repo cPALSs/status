@@ -10,16 +10,16 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7\u20138). Festival Monday 8/17: stick with consignment sales (not an info pad). Bao contacting Jen Tokunaga; Ellie maker backup if she is silent. CGL RFQ for Sep 19+21 sent Aug 17. Vendor survey / Qualtrics still due as a sell registration. Host canopy expected; borrow tables.",
+      "summary": "Vu confirmed free cPALSs booth (Aug 7\u20138). Bao lock 8/17 late: Plan B wish ribbon (write + stamp, attach to their lantern) \u2014 not a till. Saturday CAAPS is lantern-making, same kit/CGL. Duc Huong $250 supplies + b\u00e1nh m\u00ec ask. CGL RFQ for Sep 19+21 sent Aug 17. Qualtrics due as Activity / community table. Host canopy expected; borrow tables.",
       "nextGate": {
-        "label": "Jen consignment + Qualtrics as sell + bind CGL",
+        "label": "Qualtrics as activity + bind CGL + Duc Huong $250",
         "date": null
       },
       "links": [],
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "Canopy tent on hand / host canopy expected. Consignment sales are the chosen activation; CGL quote in flight. No hosted-festival MVP cash gate."
+        "note": "Host canopy expected. Wish-ribbon activation (no till). Duc Huong $250 supplies ask + in-kind meals. CGL quote in flight. No hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "yellow",
@@ -30,7 +30,7 @@
         "open": [
           "Day-of table activation owner"
         ],
-        "note": "Sell path chosen 8/17. Need Jen (or Ellie backup) stock and a named day-of owner."
+        "note": "Plan B wish ribbon locked 8/17 late. Need a named day-of owner; MV NORCAL face preferred even with no till."
       },
       "criticalPath": [
         {
@@ -50,8 +50,8 @@
         },
         {
           "id": "activation",
-          "label": "Table activation plan chosen (not just cheap merchandise)",
-          "status": "in_progress"
+          "label": "Table activation plan chosen (wish ribbon, not merchandise)",
+          "status": "done"
         },
         {
           "id": "booth-register",
