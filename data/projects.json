@@ -10,16 +10,16 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7\u20138). Vendor survey signup expected this week \u2014 no fee. Official CSUS page live; GLF season link updated. Canopy on hand; Gen Z activation still thin. Jen consignment unblocked once survey lands.",
+      "summary": "Vu confirmed free cPALSs vendor booth (Aug 7\u20138). Festival Monday 8/17: stick with consignment sales (not an info pad). Bao contacting Jen Tokunaga; Ellie maker backup if she is silent. CGL RFQ for Sep 19+21 sent Aug 17. Vendor survey / Qualtrics still due as a sell registration. Host canopy expected; borrow tables.",
       "nextGate": {
-        "label": "Complete vendor survey + choose table activation",
+        "label": "Jen consignment + Qualtrics as sell + bind CGL",
         "date": null
       },
       "links": [],
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "Canopy tent on hand. Any merchandise is optional; no hosted-festival MVP cash gate."
+        "note": "Canopy tent on hand / host canopy expected. Consignment sales are the chosen activation; CGL quote in flight. No hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "yellow",
@@ -28,10 +28,9 @@
           "Canopy / table hardware available"
         ],
         "open": [
-          "Day-of table activation owner",
-          "Activation concept owner"
+          "Day-of table activation owner"
         ],
-        "note": "Hardware ahead of product. Need a table plan worth Gen Z attention before staffing day-of."
+        "note": "Sell path chosen 8/17. Need Jen (or Ellie backup) stock and a named day-of owner."
       },
       "criticalPath": [
         {
@@ -52,7 +51,7 @@
         {
           "id": "activation",
           "label": "Table activation plan chosen (not just cheap merchandise)",
-          "status": "at_risk"
+          "status": "in_progress"
         },
         {
           "id": "booth-register",
@@ -65,7 +64,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-11"
+      "lastUpdated": "2026-08-17"
     },
     {
       "id": "lsk-golden-harvest",
@@ -246,10 +245,10 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the VACOS agreement in time for the Activity Guide. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing (booth-day question open); Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Two Idealist sponsorship-packet designer applicants due a pick (Rashmi + Amber). Public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the VACOS agreement in time for the Activity Guide. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua selected for packet design (Aug 17). Broader kickoff aimed at Sat Sep 12; walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
-        "label": "CCSD agreement draft + designer pick + Sky River send",
-        "date": null
+        "label": "CCSD agreement draft + Sep 12 kickoff hold + Sky River send",
+        "date": "2026-09-12"
       },
       "links": [
         {
@@ -276,14 +275,15 @@
           "Season co-chair lane",
           "NVCC co-host (standing \u2014 always with cPALSs)",
           "Kevin OK as NVCC Board Member on packet",
+          "Sponsorship packet graphic designer \u2014 Amber Lua",
+          "T\u1ee5 V\u00eda procession \u2014 Ellie King",
           "~4 named roles on public team roster"
         ],
         "open": [
           "Most Core director seats",
-          "Sponsorship packet graphic designer (2 Idealist applicants screening)",
           "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
-        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Sponsorship-packet designer pick due Aug 17 (Rashmi vs Amber). Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
+        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Amber Lua selected for packet graphics (Aug 17). Ellie helping the walking procession. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
       },
       "criticalPath": [
         {
