@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -73,7 +73,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Adult / non-VSA Wave 1 remainder emailed Aug 13 (soft-commit Fri Aug 28). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float (Dai Aug 18); underwriter float question can be answered as a walking banner unit. AABC soft-yes; Red Lotus lion team still interested (headcount TBD). PGHS VSA declined Aug 15 (little interest). Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Adult / non-VSA Wave 1 remainder emailed Aug 13 (soft-commit Fri Aug 28). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Walking-unit photo sent to Brewer 8/18; Bao confirmed walking-only to the underwriter 8/19. AABC soft-yes; Red Lotus lion team still interested (headcount TBD). PGHS VSA declined Aug 15 (little interest). Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
       "nextGate": {
         "label": "David prototype + Bao consent/transit design \u2192 ship intake; soft-commit by Aug 28",
         "date": "2026-08-28"
@@ -153,7 +153,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-18"
+      "lastUpdated": "2026-08-19"
     },
     {
       "id": "toy-drive-2026",
@@ -245,7 +245,7 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included). Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua selected for packet design (Aug 17); kickoff Zoom this week. Broader intro aimed at Sat Sep 12; walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua selected for packet design; kickoff Thu Aug 20 5:00 PM PT. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
         "label": "CCSD agreement names cPALSs + Sep 12 kickoff hold + Sky River send",
         "date": "2026-09-12"
@@ -283,7 +283,7 @@
           "Most Core director seats",
           "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
-        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Amber Lua selected for packet graphics (Aug 17). Ellie helping the walking procession. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
+        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Amber Lua selected for packet graphics; kickoff Thu Aug 20 5:00 PM PT. Ellie helping the walking procession. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
       },
       "criticalPath": [
         {
@@ -337,7 +337,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-18"
+      "lastUpdated": "2026-08-19"
     }
   ]
 }
