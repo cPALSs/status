@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,9 +10,9 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Vu confirmed free cPALSs booth (Aug 7\u20138). Host still recruiting vendors (cap 30 as of Aug 17). Bao lock 8/17 late: Plan B wish ribbon (write + stamp, attach to their lantern) \u2014 not a till. Saturday CAAPS is lantern-making, same kit/CGL. Duc Huong $250 supplies + b\u00e1nh m\u00ec ask. CGL RFQ for Sep 19+21 sent Aug 17 (quote pending; Treasurer asked cost + whether CAAPS is required). Qualtrics due as Activity / community table. Host canopy expected; borrow tables.",
+      "summary": "Vu confirmed free cPALSs booth (Aug 7\u20138). Host still recruiting vendors (cap 30 as of Aug 17). Host asked Mid-Autumn Season group 8/19 to share public registration (csus.edu lantern festival page); social share OK\u2019d. Occupy vs skip still open (wish ribbon if go). Saturday CAAPS occupy skipped 8/19. Duc Huong $250 supplies + b\u00e1nh m\u00ec ask shrinks if Monday-only. CGL quotes in flight (Event Helper ~$126 vs K&K ~$186). Qualtrics as Activity only if occupy. Host canopy expected; borrow tables.",
       "nextGate": {
-        "label": "Qualtrics as activity + bind CGL + Duc Huong $250",
+        "label": "Occupy vs skip + Qualtrics/CGL if go",
         "date": null
       },
       "links": [],
@@ -30,7 +30,7 @@
         "open": [
           "Day-of table activation owner"
         ],
-        "note": "Plan B wish ribbon locked 8/17 late. Need a named day-of owner; MV NORCAL face preferred even with no till."
+        "note": "Wish ribbon is the Plan B if we occupy. Need occupy/skip call + named day-of owner; MV NORCAL face preferred even with no till."
       },
       "criticalPath": [
         {
@@ -64,7 +64,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-18"
+      "lastUpdated": "2026-08-20"
     },
     {
       "id": "lsk-golden-harvest",
@@ -73,7 +73,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Adult / non-VSA Wave 1 remainder emailed Aug 13 (soft-commit Fri Aug 28). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Walking-unit photo sent to Brewer 8/18; Bao confirmed walking-only to the underwriter 8/19. AABC soft-yes; Red Lotus lion team still interested (headcount TBD). PGHS VSA declined Aug 15 (little interest). Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Adult / non-VSA Wave 1 remainder emailed Aug 13 (soft-commit Fri Aug 28). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Walking-unit photo sent to Brewer 8/18; Bao confirmed walking-only to the underwriter 8/19. COHS VSA: Taylor Pham soft-yes (Jul 30; advisor Anh Thu confirmed 8/20); ~10 / \u00e1o d\u00e0i; firmer headcount by Aug 28. AABC soft-yes; Red Lotus lion team still interested (headcount TBD). PGHS VSA declined Aug 15. Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Special Events supplemental app signed Aug 8; multi-event CGL + umbrella still with broker.",
       "nextGate": {
         "label": "David prototype + Bao consent/transit design \u2192 ship intake; soft-commit by Aug 28",
         "date": "2026-08-28"
@@ -104,7 +104,7 @@
           "Hub greeters",
           "Remaining Wave 1 replies (soft-commit Aug 28)"
         ],
-        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS advisor engaged on Aug 28 soft-commit. PGHS VSA declined Aug 15. Intake form: Bao = content design; David = prototype system (Ops CRM PRD sent). Adult Wave 1 remainder emailed Aug 13; V\u00f2ng Tay Nh\u00e2n \u00c1i marching (Dai 8/17); AABC soft-yes; Red Lotus still in."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS: Taylor soft-yes + advisor 8/20 confirm; Aug 28 firmer headcount. PGHS VSA declined Aug 15. Intake form: Bao = content design; David = prototype system (Ops CRM PRD sent). Adult Wave 1 remainder emailed Aug 13; V\u00f2ng Tay Nh\u00e2n \u00c1i marching (Dai 8/17); AABC soft-yes; Red Lotus still in."
       },
       "criticalPath": [
         {
@@ -153,7 +153,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-19"
+      "lastUpdated": "2026-08-20"
     },
     {
       "id": "toy-drive-2026",
@@ -245,7 +245,7 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua selected for packet design; kickoff Thu Aug 20 5:00 PM PT. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua selected for packet design; kickoff Thu Aug 20 5:00 PM PT (asset pack in Drive). Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
         "label": "CCSD agreement names cPALSs + Sep 12 kickoff hold + Sky River send",
         "date": "2026-09-12"
@@ -337,7 +337,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-19"
+      "lastUpdated": "2026-08-20"
     }
   ]
 }
