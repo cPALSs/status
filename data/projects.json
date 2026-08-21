@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,7 +10,7 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "Vu confirmed free cPALSs booth (Aug 7\u20138). Host still recruiting vendors (cap 30 as of Aug 17). Host asked Mid-Autumn Season group 8/19 to share public registration (csus.edu lantern festival page); social share OK\u2019d. Occupy vs skip still open (wish ribbon if go). Saturday CAAPS occupy skipped 8/19. Duc Huong $250 supplies + b\u00e1nh m\u00ec ask shrinks if Monday-only. CGL quotes in flight (Event Helper ~$126 vs K&K ~$186). Qualtrics as Activity only if occupy. Host canopy expected; borrow tables.",
+      "summary": "Occupy locked 2026-08-20 (wish ribbon Activity). Qualtrics submitted 8/20 \u2014 awaiting APIDA selection. Free booth (Vu). Host canopy requested; Kevin tables. CGL not bound yet \u2014 Event Helper ~$126 preferred (instant COI; Thuy can buy) vs K&K $186; working bind-by Fri Sep 18 then cert to andrewyang@csus.edu. CAAPS Sat occupy skipped 8/19.",
       "nextGate": {
         "label": "Occupy vs skip + Qualtrics/CGL if go",
         "date": null
@@ -162,10 +162,10 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 \u00b7 Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. District 56 Center application submitted; venue not fully booked \u2014 deposit still owed (councilmember cover / Rod Brewer path). IRS determination letter packet with Vivian for venue. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. Venue window leaning 10 AM\u201310 PM rental buffer. NVCC standing co-host.",
+      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 ContractSent 8/21 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Venue not confirmed until DocuSign Facility Rental signed and refundable damage deposit paid (due Wed Aug 26). Councilmember cover / Rod Brewer path still in play. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. NVCC standing co-host.",
       "nextGate": {
-        "label": "Deposit paid (councilmember cover path) + venue hold locked",
-        "date": null
+        "label": "Deposit paid by Aug 26 (or councilmember cover) + DocuSign signed",
+        "date": "2026-08-26"
       },
       "links": [
         {
@@ -179,8 +179,8 @@
       ],
       "finance": {
         "status": "yellow",
-        "gate": "Venue deposit cover",
-        "note": "Application in. Deposit still due; working a councilmember path to cover that cost. Determination letter (old address) with Vivian for District 56. Do not treat venue as greenlit until deposit / cover is locked. Chocolate / hot-cocoa station gift needs a new sponsor. Insurance in shared CGL/umbrella stack \u2014 broker acknowledged."
+        "gate": "Venue deposit by Aug 26",
+        "note": "Booking 3244 ContractSent. Refundable damage deposit due Wed Aug 26 to hold the date; full balance later. Councilmember cover path still open. Do not treat venue as greenlit until DocuSign + deposit (or written cover) land. Chocolate / hot-cocoa station gift needs a new sponsor. Shared CGL stack with broker \u2014 EGLNY limit/liquor re-quote in flight."
       },
       "staffing": {
         "status": "yellow",
@@ -208,7 +208,7 @@
         {
           "id": "contract",
           "label": "Venue agreement / rental paperwork signed",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "insurance-stack",
@@ -236,7 +236,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-11"
+      "lastUpdated": "2026-08-21"
     },
     {
       "id": "lny-2027",
