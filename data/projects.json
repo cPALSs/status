@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -162,7 +162,7 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 \u00b7 Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 ContractSent 8/21 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Venue not confirmed until DocuSign Facility Rental signed and refundable damage deposit paid (due Wed Aug 26). Councilmember cover / Rod Brewer path still in play. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. NVCC standing co-host.",
+      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 ContractSent 8/21 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Vivian has the Treasurer check (Tue 8/25) and intends a city-hall drop Wed Aug 26. Venue not confirmed until DocuSign Facility Rental is signed and the refundable damage deposit posts. Councilmember cover / Rod Brewer path still in play. Vivian is sole cPALSs chair. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. NVCC standing co-host.",
       "nextGate": {
         "label": "Deposit paid by Aug 26 (or councilmember cover) + DocuSign signed",
         "date": "2026-08-26"
@@ -236,7 +236,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-21"
+      "lastUpdated": "2026-08-26"
     },
     {
       "id": "lny-2027",
