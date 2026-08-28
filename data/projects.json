@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -162,9 +162,9 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 \u00b7 Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 ContractSent 8/21 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26. Venue not fully green until DocuSign Facility Rental is signed. Vivian is sole cPALSs chair. Franklin HS VSA (Katelynn Lam) wants to volunteer again \u2014 Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot open. NVCC standing co-host.",
+      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26 and confirmed DocuSign Facility Rental already signed (Aug 27). Venue paperwork path clear; full balance later. Vivian is sole cPALSs chair. Franklin HS VSA (Katelynn Lam) wants to volunteer again \u2014 Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot still open (chair covering if no sponsor). NVCC standing co-host.",
       "nextGate": {
-        "label": "DocuSign Facility Rental signed",
+        "label": "Celebration directors + cocoa station cover",
         "date": null
       },
       "links": [
@@ -179,8 +179,8 @@
       ],
       "finance": {
         "status": "yellow",
-        "gate": "DocuSign + deposit posted",
-        "note": "Booking 3244 ContractSent. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). Full balance later. Do not treat venue as greenlit until DocuSign Facility Rental is signed. Chocolate / hot-cocoa station gift needs a new sponsor. Shared CGL stack with broker \u2014 EGLNY limit/liquor re-quote in flight."
+        "gate": "Deposit posted + DocuSign signed",
+        "note": "Booking 3244. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). DocuSign Facility Rental signed (Vivian confirmed Aug 27). Full balance later. Chocolate / hot-cocoa station gift still open. Shared CGL stack with broker \u2014 EGLNY limit/liquor re-quote in flight."
       },
       "staffing": {
         "status": "yellow",
@@ -208,7 +208,7 @@
         {
           "id": "contract",
           "label": "Venue agreement / rental paperwork signed",
-          "status": "in_progress"
+          "status": "done"
         },
         {
           "id": "insurance-stack",
@@ -236,7 +236,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-08-28"
     },
     {
       "id": "lny-2027",
@@ -245,10 +245,10 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Core layout session locked Sat Aug 30 2:30 PM PT at Kevin\u2019s (\u226490 min). Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Amber Lua packet check-in Thu Aug 27 5 PM PT. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Core layout session locked Sat Aug 29 2:30 PM PT at Kevin\u2019s (\u226490 min); Thuy accepted 8/28; Ellie / Kevin / Tido RSVP still open. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
-        "label": "Core layout Sat Aug 30 + CCSD agreement + Sep 12 kickoff",
-        "date": "2026-08-30"
+        "label": "Core layout Sat Aug 29 + CCSD agreement + Sep 12 kickoff",
+        "date": "2026-08-29"
       },
       "links": [
         {
@@ -337,7 +337,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-08-28"
     }
   ]
 }
