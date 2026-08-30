@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -245,10 +245,10 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13) so CCSD can write the agreement in time for the Activity Guide. Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Core layout session locked Sat Aug 29 2:30 PM PT at Kevin\u2019s (\u226490 min); Thuy accepted 8/28; Ellie / Kevin / Tido RSVP still open. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Core layout session ran Sat Aug 29 at Kevin\u2019s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
-        "label": "Core layout Sat Aug 29 + CCSD agreement + Sep 12 kickoff",
-        "date": "2026-08-29"
+        "label": "Sep 12 kickoff + CCSD agreement (parking collections after GPF)",
+        "date": "2026-09-12"
       },
       "links": [
         {
@@ -302,6 +302,11 @@
           "status": "done"
         },
         {
+          "id": "core-layout",
+          "label": "Core layout session (Pavilion lots A/B/C lock)",
+          "status": "done"
+        },
+        {
           "id": "sponsor-packets",
           "label": "Sponsorship outbound wave 1 (warm leads) + Sky River",
           "status": "in_progress"
@@ -337,7 +342,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-28"
+      "lastUpdated": "2026-08-29"
     }
   ]
 }
