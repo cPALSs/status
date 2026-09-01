@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,16 +10,16 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation confirm + waiver still owed. Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper proposal #M4399884 under $50 (Thuy 8/31) — not bound; Bao review before pay; CSUS cert to andrewyang@csus.edu. Kevin tables.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation confirmed and signed CSUS waiver in (Vu ack 8/31). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper proposal #M4399884 under $50 — Bao OK; Thuy adding CSUS additional insured, targeting Fri Sep 4 (quote through Mon Sep 7). COI still to CSUS Risk. Kevin tables.",
       "nextGate": {
-        "label": "Confirm APIDA reservation + waiver · Bao OK on TEH bind · ribbon supplies",
-        "date": null
+        "label": "Thuy TEH additional-insured + pay by Fri Sep 4 · COI to CSUS · ribbon supplies",
+        "date": "2026-09-04"
       },
       "links": [],
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper proposal under $50 (not bound). No hosted-festival MVP cash gate."
+        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper under $50 \u2014 Bao OK; Thuy adding CSUS additional insured before pay (quote through Mon Sep 7). No hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "yellow",
@@ -64,7 +64,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-31"
+      "lastUpdated": "2026-09-01"
     },
     {
       "id": "lsk-golden-harvest",
@@ -73,9 +73,9 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). COHS VSA: Taylor Pham soft-yes (Jul 30; advisor Anh Thu confirmed 8/20); ~10 / \u00e1o d\u00e0i. AABC soft-yes. PGHS VSA declined Aug 15. Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Parental consent + transit intake: Bao designs content; waiting on David for prototype before VSA distribute. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao sent UW planning attendance ~1,500 (8/28).",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA still in (Taylor 9/1 — club will transport members). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK).",
       "nextGate": {
-        "label": "David prototype + Bao consent/transit design \u2192 ship intake; Thuy on VACOS GL share",
+        "label": "Portal beta feedback \u2192 parent letter; Thuy on VACOS GL share",
         "date": null
       },
       "links": [
@@ -91,7 +91,7 @@
       "finance": {
         "status": "green",
         "gate": "No discretionary transit budget",
-        "note": "cPALSs has no discretionary funding for charters; VACOS may prioritize LNY. Default modes: parent drive or parent-consented light-rail escort. Chartered bus is last resort and unlikely. Parade-day GL quote in flight; VACOS share asked. Umbrella + multi-event CGL (shared with Toy Drive + LNY) still with broker."
+        "note": "Year-one lock: parent/guardian transport only. No chartered bus and no staffed light-rail escort (announced to VSAs 9/1). Families may use SacRT on their own with an adult. Parade-day GL quote in flight; VACOS share asked. Umbrella + multi-event CGL (shared with Toy Drive + LNY) still with broker."
       },
       "staffing": {
         "status": "yellow",
@@ -104,7 +104,7 @@
           "Hub greeters",
           "Remaining Wave 1 headcounts (window closed; still welcome)"
         ],
-        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS: Taylor soft-yes + advisor 8/20 confirm. PGHS VSA declined Aug 15. Intake form: Bao = content design; David = prototype system (Ops CRM PRD sent). Adult Wave 1 remainder emailed Aug 13; V\u00f2ng Tay Nh\u00e2n \u00c1i marching (Dai 8/17); AABC soft-yes; Red Lotus \u22656 (8/29)."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS still in after parent-drive lock (Taylor 9/1). PGHS VSA declined Aug 15. Portal beta for waivers invited 9/1. Adult Wave 1 remainder emailed Aug 13; V\u00f2ng Tay Nh\u00e2n \u00c1i marching (Dai 8/17); AABC soft-yes; Red Lotus \u22656 (8/29)."
       },
       "criticalPath": [
         {
@@ -119,7 +119,7 @@
         },
         {
           "id": "consent-form",
-          "label": "Parental consent + transit intake live (Bao design \u00b7 David prototype)",
+          "label": "Parental consent + transit intake live (portal beta 9/1)",
           "status": "in_progress"
         },
         {
@@ -153,7 +153,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-08-31"
+      "lastUpdated": "2026-09-01"
     },
     {
       "id": "toy-drive-2026",
