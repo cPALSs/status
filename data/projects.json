@@ -10,16 +10,16 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation confirmed and signed CSUS waiver in (Vu ack 8/31). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper proposal #M4399884 under $50 — Bao OK; Thuy added CSUS additional insured and asked Bao to pay (e-check not accepted; Zelle reimburse). Not paid yet. Rate hold ~Fri Sep 11; purchase by Mon Sep 21. COI still to CSUS Risk. Kevin tables.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation confirmed and signed CSUS waiver in (Vu ack 8/31). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). Next: COI received by CSUS. Kevin tables.",
       "nextGate": {
-        "label": "Bao pay TEH #M4399884 (Thuy Zelle) by ~Fri Sep 11 · COI to CSUS · ribbon supplies",
-        "date": "2026-09-11"
+        "label": "COI received by CSUS · ribbon supplies",
+        "date": "2026-09-21"
       },
       "links": [],
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper under $50 \u2014 Bao OK; Thuy forwarded revised quote 9/4 (no e-check; Bao pay + Zelle). Rate ~Fri Sep 11; coverage by Mon Sep 21. No hosted-festival MVP cash gate."
+        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper #M4399884 paid $49.80 Sat Sep 5. Coverage Mon Sep 21. No hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "yellow",
@@ -73,7 +73,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal invite URL was blank). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Wave 2 invites 9/4–9/5: Xang X\u1eeb L\u00edu, Jade Rabbit, Laguna Creek VCC. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/2: LSK GH sponsorship packet on his design queue.",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal invite URL was blank). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Florin VSA + Asian Club + icebreaker champs Henry + Abran still in. Wave 2 invites 9/4–9/5: Xang X\u1eeb L\u00edu, Jade Rabbit, Laguna Creek VCC. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
       "nextGate": {
         "label": "Portal beta feedback \u2192 parent letter; Thuy on VACOS GL share",
         "date": null
