@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "title": "cPALSs Project Health",
-  "subtitle": "Portfolio signal for board members and committee chairs \u2014 on track, at risk, or headed toward no-go review.",
+  "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
     {
       "id": "apida-night-lights",
       "name": "APIDA Night Lights",
-      "season": "Mid-Autumn 2026 \u00b7 GLF paused",
+      "season": "Mid-Autumn 2026 · GLF paused",
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation confirmed and signed CSUS waiver in (Vu ack 8/31). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Next: CSUS ack. Kevin tables.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation + signed CSUS waiver confirmed by APIDA 9/9 (set-up details later). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Next: CSUS ack. Kevin tables.",
       "nextGate": {
         "label": "COI received by CSUS · ribbon supplies",
         "date": "2026-09-21"
@@ -56,7 +56,7 @@
         {
           "id": "booth-register",
           "label": "Booth / table registered with host",
-          "status": "in_progress"
+          "status": "done"
         },
         {
           "id": "day-of-owner",
@@ -64,18 +64,18 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-07"
+      "lastUpdated": "2026-09-10"
     },
     {
       "id": "lsk-golden-harvest",
       "name": "LSK @ Golden Harvest",
-      "season": "Mid-Autumn 2026 \u00b7 GLF paused",
+      "season": "Mid-Autumn 2026 · GLF paused",
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). V\u00f2ng Tay Nh\u00e2n \u00c1i (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe \u2014 no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 invites 9/4–9/5: Xang X\u1eeb L\u00edu, Jade Rabbit, Laguna Creek VCC. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). UC Davis VSA registered on the portal (Minh 9/9). Viet Serenity Sisters committed 7 dancers (Nancy 9/9). Jade Rabbit declined (Nam 9/9 — booked Oct 24 12–2pm). My Sister's House passed (9/9). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). Vòng Tay Nhân Ái (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe — no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 remaining: Xang Xừ Líu, Laguna Creek VCC. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
       "nextGate": {
-        "label": "Portal beta feedback \u2192 parent letter; Thuy on VACOS GL share",
+        "label": "Portal beta feedback → parent letter; Thuy on VACOS GL share",
         "date": null
       },
       "links": [
@@ -104,7 +104,7 @@
           "Hub greeters",
           "Remaining Wave 1 headcounts (window closed; still welcome)"
         ],
-        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS committed after parent-drive lock (Corey 9/4–9/5; portal workspace working 9/5). Florin VSA + Asian Club joint 31 (Jasmine 9/8; portal created; carpool). EGHS VSA leaning no 9/6 (transport; not declined). PGHS VSA declined Aug 15. Portal beta for waivers invited 9/1. Adult Wave 1 remainder emailed Aug 13; V\u00f2ng Tay Nh\u00e2n \u00c1i marching (Dai 8/17); AABC soft-yes; Red Lotus \u22656 (8/29). Wave 2 9/4–9/5: Xang X\u1eeb L\u00edu, Jade Rabbit, Laguna Creek VCC."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS committed after parent-drive lock (Corey 9/4–9/5; portal workspace working 9/5). Florin VSA + Asian Club joint 31 (Jasmine 9/8; portal created; carpool). UCD VSA portal 9/9. Viet Serenity Sisters 7 dancers. Jade Rabbit declined 9/9. My Sister's House passed 9/9. EGHS VSA leaning no 9/6 (transport; not declined). PGHS VSA declined Aug 15. Portal beta for waivers invited 9/1. Adult Wave 1 remainder emailed Aug 13; Vòng Tay Nhân Ái marching (Dai 8/17); AABC soft-yes; Red Lotus ≥6 (8/29). Wave 2 remaining: Xang Xừ Líu, Laguna Creek VCC."
       },
       "criticalPath": [
         {
@@ -153,16 +153,16 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-09"
+      "lastUpdated": "2026-09-10"
     },
     {
       "id": "toy-drive-2026",
       "name": "Toy Drive 2026",
-      "season": "Toy Drive \u00b7 10th annual",
+      "season": "Toy Drive · 10th annual",
       "eventDate": "2026-12-06",
-      "eventDateLabel": "Sun Dec 6, 2026 \u00b7 Sunday after Illumination Festival",
+      "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) \u2014 not Dec 18. City booking 3244 (Main Hall; rental 10 AM\u201310 PM; guest 3:30\u20137:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26 and confirmed DocuSign Facility Rental already signed (Aug 27). Venue paperwork path clear; full balance later. Vivian is sole cPALSs chair and remains committed (Board 8/28). Journey to the Dumpling committed by text (Vivian 8/28). American Furniture (Lauren / Jimmy) amount TBD. Rod Brewer verbal cash interest (Vivian 9/4). Franklin HS VSA (Katelynn Lam) wants to volunteer again \u2014 Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) \u2014 chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot still open (chair covering if no sponsor). NVCC standing co-host.",
+      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) — not Dec 18. City booking 3244 (Main Hall; rental 10 AM–10 PM; guest 3:30–7:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26 and confirmed DocuSign Facility Rental already signed (Aug 27). Venue paperwork path clear; full balance later. Vivian is sole cPALSs chair and remains committed (Board 8/28). Journey to the Dumpling committed by text (Vivian 8/28). American Furniture (Lauren / Jimmy) amount TBD. Rod Brewer verbal cash interest (Vivian 9/4). Franklin HS VSA (Katelynn Lam) wants to volunteer again — Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) — chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot still open (chair covering if no sponsor). NVCC standing co-host.",
       "nextGate": {
         "label": "Celebration directors + cocoa station cover",
         "date": null
@@ -180,19 +180,19 @@
       "finance": {
         "status": "yellow",
         "gate": "Deposit posted + DocuSign signed",
-        "note": "Booking 3244. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). DocuSign Facility Rental signed (Vivian confirmed Aug 27). Full balance later. Chocolate / hot-cocoa station gift still open. Shared CGL stack with broker \u2014 EGLNY limit/liquor re-quote in flight. Bao 9/2: helping Toy Drive sponsorship packet (Vivian still chair)."
+        "note": "Booking 3244. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). DocuSign Facility Rental signed (Vivian confirmed Aug 27). Full balance later. Chocolate / hot-cocoa station gift still open. Shared CGL stack with broker — EGLNY limit/liquor re-quote in flight. Bao 9/2: helping Toy Drive sponsorship packet (Vivian still chair)."
       },
       "staffing": {
         "status": "yellow",
         "filled": [
-          "Event chair \u2014 Vivian Vu (sole cPALSs chair)",
-          "NVCC co-host (standing \u2014 always with cPALSs)"
+          "Event chair — Vivian Vu (sole cPALSs chair)",
+          "NVCC co-host (standing — always with cPALSs)"
         ],
         "open": [
           "Multiple celebration director lanes",
           "Chair response to Idealist director applicant(s)"
         ],
-        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. Cindy Chan (Kids Games / Crafts / Registration interest) phone + preferred-SMS note with Vivian \u2014 chair contact still open. Director slate still forming."
+        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. Cindy Chan (Kids Games / Crafts / Registration interest) phone + preferred-SMS note with Vivian — chair contact still open. Director slate still forming."
       },
       "criticalPath": [
         {
@@ -241,11 +241,11 @@
     {
       "id": "lny-2027",
       "name": "Lunar New Year 2027",
-      "season": "LNY \u00b7 Elk Grove",
+      "season": "LNY · Elk Grove",
       "eventDate": "2027-02-13",
-      "eventDateLabel": "Sat\u2013Sun Feb 13\u201314, 2027 \u00b7 T\u1ebft Tailgate Sunday",
+      "eventDateLabel": "Sat–Sun Feb 13–14, 2027 · Tết Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A \u2014 Feb 13\u201314 with Sunday T\u1ebft Tailgate. Core layout session ran Sat Aug 29 at Kevin\u2019s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10\u20132/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG late-file: Jodie 9/8 takes it to the City Manager (apps closed; another LNY at District 56 already awarded); VACOS should confirm last cycle's claim check. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return \u2014 connect Nov\u2013early Dec. Sky River still Vivian\u2192POC. Broader intro Sat Sep 12 2\u20134 PM (Kevin accepted 8/19; Thuy, Ng\u00e3i V\u00f5, and Phi Lu accepted 9/5; Ellie accepted 9/8); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG late-file: Jodie 9/8 takes it to the City Manager (apps closed; another LNY at District 56 already awarded); VACOS should confirm last cycle's claim check. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro Sat Sep 12 2–4 PM (Kevin accepted 8/19; Thuy, Ngãi Võ, and Phi Lu accepted 9/5; Ellie accepted 9/8); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
         "label": "Sep 12 kickoff + CCSD agreement (parking collections after GPF)",
         "date": "2026-09-12"
@@ -273,17 +273,17 @@
         "status": "yellow",
         "filled": [
           "Season co-chair lane",
-          "NVCC co-host (standing \u2014 always with cPALSs)",
+          "NVCC co-host (standing — always with cPALSs)",
           "Kevin OK as NVCC Board Member on packet",
-          "Sponsorship packet graphic designer \u2014 Amber Lua",
-          "T\u1ee5 V\u00eda procession \u2014 Ellie King",
+          "Sponsorship packet graphic designer — Amber Lua",
+          "Tụ Vía procession — Ellie King",
           "~4 named roles on public team roster"
         ],
         "open": [
           "Most Core director seats",
           "Tailgate / Super Bowl activation owner (Robert ask)"
         ],
-        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Amber Lua still designing the sponsorship packet (kickoff Aug 20); no wave 2 until that packet is done. Ellie helping the walking procession. Being in the LNY 2027 WhatsApp group does not equal a committed director seat \u2014 treat floaters as floaters."
+        "note": "NVCC co-hosts with cPALSs by posture. Recruiting and confirming more named director roles. Amber Lua still designing the sponsorship packet (kickoff Aug 20); no wave 2 until that packet is done. Ellie helping the walking procession. Being in the LNY 2027 WhatsApp group does not equal a committed director seat — treat floaters as floaters."
       },
       "criticalPath": [
         {
