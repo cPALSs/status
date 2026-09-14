@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-14",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,7 +10,7 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation + signed CSUS waiver confirmed by APIDA 9/9 (set-up details later). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Next: CSUS ack. Kevin tables.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation + signed CSUS waiver confirmed by APIDA 9/9 (set-up details later). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Board 9/11: Dai plus 2–3 MV NORCAL court. Champion print quotes in 9/11 — pick one SKU. Next: CSUS ack. Kevin tables.",
       "nextGate": {
         "label": "COI received by CSUS · ribbon supplies",
         "date": "2026-09-21"
@@ -25,12 +25,13 @@
         "status": "yellow",
         "filled": [
           "Season liaison lane (Vu)",
-          "Canopy / table hardware available"
+          "Canopy / table hardware available",
+          "Dai + 2–3 MV NORCAL court (Board 9/11)"
         ],
         "open": [
           "Day-of table activation owner"
         ],
-        "note": "Wish ribbon activation locked. Named day-of owner still open; MV NORCAL face preferred even with no till."
+        "note": "Wish ribbon activation locked. Dai will be there Sep 21 with 2–3 court. Named day-of table owner still open."
       },
       "criticalPath": [
         {
@@ -64,7 +65,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-10"
+      "lastUpdated": "2026-09-14"
     },
     {
       "id": "lsk-golden-harvest",
@@ -73,7 +74,7 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). UC Davis VSA registered on the portal (Minh 9/9). Viet Serenity Sisters committed 7 dancers (Nancy 9/9). Jade Rabbit declined (Nam 9/9 — booked Oct 24 12–2pm). My Sister's House passed (9/9). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). Vòng Tay Nhân Ái (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe — no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 remaining: Xang Xừ Líu, Laguna Creek VCC. Portal beta for krewe waivers invited 9/1. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). UC Davis VSA registered on the portal (Minh 9/9). Viet Serenity Sisters committed 7 dancers (Nancy 9/9). Jade Rabbit declined (Nam 9/9 — booked Oct 24 12–2pm). My Sister's House passed (9/9). Xang Xừ Líu declined (MyDuyen 9/11 — group busy Oct 24). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). Vòng Tay Nhân Ái (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe — no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 remaining: Laguna Creek VCC. Portal live for krewe waivers. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
       "nextGate": {
         "label": "Portal beta feedback → parent letter; Thuy on VACOS GL share",
         "date": null
@@ -104,7 +105,7 @@
           "Hub greeters",
           "Remaining Wave 1 headcounts (window closed; still welcome)"
         ],
-        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS committed after parent-drive lock (Corey 9/4–9/5; portal workspace working 9/5). Florin VSA + Asian Club joint 31 (Jasmine 9/8; portal created; carpool). UCD VSA portal 9/9. Viet Serenity Sisters 7 dancers. Jade Rabbit declined 9/9. My Sister's House passed 9/9. EGHS VSA leaning no 9/6 (transport; not declined). PGHS VSA declined Aug 15. Portal beta for waivers invited 9/1. Adult Wave 1 remainder emailed Aug 13; Vòng Tay Nhân Ái marching (Dai 8/17); AABC soft-yes; Red Lotus ≥6 (8/29). Wave 2 remaining: Xang Xừ Líu, Laguna Creek VCC."
+        "note": "Lead seat filled. Florin VSA icebreaker contacts logged. COHS committed after parent-drive lock (Corey 9/4–9/5; portal workspace working 9/5). Florin VSA + Asian Club joint 31 (Jasmine 9/8; portal created; carpool). UCD VSA portal 9/9. Viet Serenity Sisters 7 dancers. Jade Rabbit declined 9/9. My Sister's House passed 9/9. Xang Xừ Líu declined 9/11. EGHS VSA leaning no 9/6 (transport; not declined). PGHS VSA declined Aug 15. Portal live for waivers. Adult Wave 1 remainder emailed Aug 13; Vòng Tay Nhân Ái marching (Dai 8/17); AABC soft-yes; Red Lotus ≥6 (8/29). Wave 2 remaining: Laguna Creek VCC."
       },
       "criticalPath": [
         {
@@ -119,7 +120,7 @@
         },
         {
           "id": "consent-form",
-          "label": "Parental consent + transit intake live (portal beta 9/1)",
+          "label": "Parental consent + transit intake live (portal 9/9)",
           "status": "in_progress"
         },
         {
@@ -153,7 +154,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-10"
+      "lastUpdated": "2026-09-14"
     },
     {
       "id": "toy-drive-2026",
@@ -245,10 +246,10 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat–Sun Feb 13–14, 2027 · Tết Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG late-file: Jodie 9/8 takes it to the City Manager (apps closed; another LNY at District 56 already awarded); VACOS should confirm last cycle's claim check. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro Sat Sep 12 2–4 PM (Kevin accepted 8/19; Thuy, Ngãi Võ, and Phi Lu accepted 9/5; Ellie accepted 9/8); walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG will not reopen for 2027; City offered a smaller cash sponsorship instead and extra-duty police is required. VACOS should still confirm last cycle's claim check. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro ran Sat Sep 12 at Tido’s (thin room). Walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
-        "label": "Sep 12 kickoff + CCSD agreement (parking collections after GPF)",
-        "date": "2026-09-12"
+        "label": "City cash-sponsorship invoice + extra-duty police packet",
+        "date": "2026-09-16"
       },
       "links": [
         {
@@ -267,7 +268,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Fund MVP Core (outbound live; commits pending)",
-        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Wave 2 held until Amber Lua packet is done. City ESG late-file: Jodie 9/8 takes it to the City Manager (apps closed). VACOS should confirm last cycle's claim check. Early receipts (SMUD / Hume / Verizon reviewing / Anthem Dec / Metro soft-return Nov). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
+        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Wave 2 held until Amber Lua packet is done. City ESG closed 9/11; cash sponsorship offered instead. Extra-duty police required. VACOS should confirm last cycle's claim check. Early receipts (SMUD / Hume / Verizon reviewing / Anthem Dec / Metro soft-return Nov). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
       },
       "staffing": {
         "status": "yellow",
@@ -342,7 +343,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-09"
+      "lastUpdated": "2026-09-14"
     }
   ]
 }
