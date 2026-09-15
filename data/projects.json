@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,9 +10,9 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn Amphitheatre (PS5 parking). Reservation + signed CSUS waiver confirmed by APIDA 9/9 (set-up details later). Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Board 9/11: Dai plus 2–3 MV NORCAL court. Champion print quotes in 9/11 — pick one SKU. Next: CSUS ack. Kevin tables.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2:30–5 PM; event 6–10 PM Acorn / Main Quad. APIDA 9/14: park gravel Vendors & Performers lot (no pass); check-in Lassen Hall with Vu; no drive-up unload. Reservation + signed CSUS waiver confirmed by APIDA 9/9. Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Board 9/11: Dai plus 2–3 MV NORCAL court. Festival Weekly 9/14: Thuy orders Champion backdrop; Bao orders craft supplies and checks lighting with Vu. Next: CSUS ack. Kevin tables.",
       "nextGate": {
-        "label": "COI received by CSUS · ribbon supplies",
+        "label": "Thuy backdrop · Bao lighting/Vu + crafts · CSUS COI ack",
         "date": "2026-09-21"
       },
       "links": [],
@@ -31,7 +31,7 @@
         "open": [
           "Day-of table activation owner"
         ],
-        "note": "Wish ribbon activation locked. Dai will be there Sep 21 with 2–3 court. Named day-of table owner still open."
+        "note": "Wish ribbon activation locked. Dai will be there Sep 21 with 2–3 court. Named day-of table owner still open. Festival Weekly 9/14: Thuy backdrop; Bao crafts + lighting."
       },
       "criticalPath": [
         {
@@ -65,7 +65,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-14"
+      "lastUpdated": "2026-09-15"
     },
     {
       "id": "lsk-golden-harvest",
@@ -246,7 +246,7 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat–Sun Feb 13–14, 2027 · Tết Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s: Pavilion lots A/B/C stay festival floor; carnival in A or B (tree clearance); Kloss West and Bike/Dog are parking; intimate main stage with microstages in the other two lots if needed. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG will not reopen for 2027; City offered a smaller cash sponsorship instead and extra-duty police is required. VACOS should still confirm last cycle's claim check. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro ran Sat Sep 12 at Tido’s (11 in the room + 2 on Zoom listening; one Zoom account recorded the room). Walking procession (no cars) confirmed with VACOS. Public roster still thin.",
+      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG will not reopen for 2027; City offered a smaller cash sponsorship instead and extra-duty police is required. Extra-duty insurance packet is with Anna; Bao still to accept before it can go to the City. Last-cycle claim check is being replaced for cashier pickup. Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro ran Sat Sep 12 at Tido’s (11 in the room + 2 on Zoom listening). Working three-lane team email went to team@eglny.com 9/14. Walking procession (no cars) confirmed with VACOS. Public roster still thin.",
       "nextGate": {
         "label": "City cash-sponsorship invoice + extra-duty police packet",
         "date": "2026-09-16"
@@ -268,7 +268,7 @@
       "finance": {
         "status": "yellow",
         "gate": "Fund MVP Core (outbound live; commits pending)",
-        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Wave 2 held until Amber Lua packet is done. City ESG closed 9/11; cash sponsorship offered instead. Extra-duty police required. VACOS should confirm last cycle's claim check. Early receipts (SMUD / Hume / Verizon reviewing / Anthem Dec / Metro soft-return Nov). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
+        "note": "Warm-sponsor outbound wave 1 sent Aug 11. Wave 2 held until Amber Lua packet is done. City ESG closed 9/11; cash sponsorship offered instead. Extra-duty police required; insurance packet with Anna, Bao still to accept. Last-cycle claim check being replaced for pickup. Early receipts (SMUD / Hume / Verizon reviewing / Anthem Dec / Metro soft-return Nov). Kaiser cycle = Oct Mosaic window. Sky River send still open. MVP cash commitments still needed."
       },
       "staffing": {
         "status": "yellow",
@@ -343,7 +343,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-14"
+      "lastUpdated": "2026-09-15"
     }
   ]
 }
