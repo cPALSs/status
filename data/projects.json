@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-21",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,10 +10,10 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2–5 PM (APIDA 9/17–9/18); event 6–10 PM Acorn / Main Quad. Park gravel Vendors & Performers lot (no pass); check-in Lassen Hall with Vu; no drive-up unload. Reservation + signed CSUS waiver confirmed by APIDA 9/9. Wish ribbon only; Duc Huong skip 8/25; no food. Event Helper #M4399884 paid $49.80 Sat Sep 5 (VACOS/CPALSS named insured; CSUS Risk cert). COI emailed Andrew Yang (CSUS Risk) Sat Sep 5. Board 9/11: Dai plus 2–3 MV NORCAL court. Champion 8x10 backdrop ordered 9/16 (hoped Sat Sep 19 pickup); proof OK 9/17; warehouse waiting pocket vs grommets. Crew RSVP + food list sent 9/17 — replies still due. Bao backup canopy/table + LED lantern; Thuy scissors/markers. Next: Champion finish + crew RSVP. Kevin skip.",
+      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2–5 PM; event 6–10 PM today at Acorn / Main Quad. Park gravel Vendors & Performers lot (no pass); check-in Lassen Hall with Vu; no drive-up unload. Reservation + signed CSUS waiver confirmed by APIDA 9/9. Wish ribbon only; no food sales. COI emailed CSUS Risk Sep 5 (ack still open). Dai + 3 court and Thuy confirmed. Champion 8x10 backdrop picked up (pole pocket). Bao backup canopy/table. Next: day-of occupy. Kevin skip.",
       "nextGate": {
-        "label": "Champion pocket vs grommet · Sat pickup · crew RSVP",
-        "date": "2026-09-19"
+        "label": "Day-of occupy",
+        "date": "2026-09-21"
       },
       "links": [],
       "finance": {
@@ -26,12 +26,13 @@
         "filled": [
           "Season liaison lane (Vu)",
           "Canopy / table hardware available",
-          "Dai + 2–3 MV NORCAL court (Board 9/11)"
+          "Dai + 3 MV NORCAL court (RSVP 9/18)",
+          "Thuy on the pad"
         ],
         "open": [
           "Day-of table activation owner"
         ],
-        "note": "Wish ribbon activation locked. Dai will be there Sep 21 with 2–3 court. Named day-of table owner still open. Champion backdrop ordered 9/16; warehouse waiting pocket vs grommets. Crew RSVP sent 9/17. Bao crafts + backup tent. Kevin skip."
+        "note": "Wish ribbon activation locked. Dai + 3 court and Thuy confirmed. Backdrop picked up. Named day-of table owner still open. Bao crafts + backup tent. Kevin skip."
       },
       "criticalPath": [
         {
@@ -65,7 +66,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-18"
+      "lastUpdated": "2026-09-21"
     },
     {
       "id": "lsk-golden-harvest",
