@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -10,10 +10,10 @@
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
       "overall": "yellow",
-      "summary": "APIDA accepted 2026-08-28. Host provides 6-ft table, two chairs, 10x10 canopy; set-up 2–5 PM; event 6–10 PM today at Acorn / Main Quad. Park gravel Vendors & Performers lot (no pass); check-in Lassen Hall with Vu; no drive-up unload. Reservation + signed CSUS waiver confirmed by APIDA 9/9. Wish ribbon only; no food sales. COI emailed CSUS Risk Sep 5 (ack still open). Dai + 3 court and Thuy confirmed. Champion 8x10 backdrop picked up (pole pocket). Bao backup canopy/table. Next: day-of occupy. Kevin skip.",
+      "summary": "Occupied Mon Sep 21 at Acorn / Main Quad. Wish ribbon only; no food sales. Host provided the 6-ft table, two chairs, and 10x10 canopy. Reservation and signed CSUS waiver were confirmed by APIDA 9/9. COI emailed CSUS Risk Sep 5 (acknowledgment still open). Champion backdrop and a backup canopy were on site. Next: CSUS certificate acknowledgment.",
       "nextGate": {
-        "label": "Day-of occupy",
-        "date": "2026-09-21"
+        "label": "CSUS certificate acknowledgment",
+        "date": null
       },
       "links": [],
       "finance": {
@@ -22,17 +22,14 @@
         "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper #M4399884 paid $49.80 Sat Sep 5. Coverage Mon Sep 21. No hosted-festival MVP cash gate."
       },
       "staffing": {
-        "status": "yellow",
+        "status": "green",
         "filled": [
           "Season liaison lane (Vu)",
           "Canopy / table hardware available",
-          "Dai + 3 MV NORCAL court (RSVP 9/18)",
-          "Thuy on the pad"
+          "Table occupied Mon Sep 21"
         ],
-        "open": [
-          "Day-of table activation owner"
-        ],
-        "note": "Wish ribbon activation locked. Dai + 3 court and Thuy confirmed. Backdrop picked up. Named day-of table owner still open. Bao crafts + backup tent. Kevin skip."
+        "open": [],
+        "note": "Wish-ribbon table ran Mon Sep 21. Backdrop and backup canopy were on site. Kevin skip."
       },
       "criticalPath": [
         {
@@ -62,11 +59,11 @@
         },
         {
           "id": "day-of-owner",
-          "label": "Day-of cPALSs table owner named",
-          "status": "not_started"
+          "label": "Day-of table occupied",
+          "status": "done"
         }
       ],
-      "lastUpdated": "2026-09-21"
+      "lastUpdated": "2026-09-22"
     },
     {
       "id": "lsk-golden-harvest",
