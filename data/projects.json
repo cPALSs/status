@@ -5,15 +5,15 @@
   "projects": [
     {
       "id": "apida-night-lights",
-      "name": "APIDA Night Lights",
+      "name": "Sac State Lantern Fest",
       "season": "Mid-Autumn 2026 · GLF paused",
       "eventDate": "2026-09-21",
       "eventDateLabel": "Mon Sep 21, 2026",
-      "overall": "yellow",
-      "summary": "Occupied Mon Sep 21 at Acorn / Main Quad. Wish ribbon only; no food sales. Host provided the 6-ft table, two chairs, and 10x10 canopy. Reservation and signed CSUS waiver were confirmed by APIDA 9/9. COI emailed CSUS Risk Sep 5 (acknowledgment still open). Champion backdrop and a backup canopy were on site. Next: CSUS certificate acknowledgment.",
+      "overall": "green",
+      "summary": "Done. Sac State Lantern Fest (formerly Night Lights) occupied Mon Sep 21 at Acorn / Main Quad. Wish ribbon only; no food sales. Host provided the 6-ft table, two chairs, and 10x10 canopy. No further certificate chase.",
       "nextGate": {
-        "label": "CSUS certificate acknowledgment",
-        "date": null
+        "label": "Closed",
+        "date": "2026-09-21"
       },
       "links": [],
       "finance": {
