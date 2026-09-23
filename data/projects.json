@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -72,10 +72,10 @@
       "eventDate": "2026-10-24",
       "eventDateLabel": "Sat Oct 24, 2026",
       "overall": "yellow",
-      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). UC Davis VSA registered on the portal (Minh 9/9). Viet Serenity Sisters committed 7 dancers (Nancy 9/9). Jade Rabbit declined (Nam 9/9 — booked Oct 24 12–2pm). My Sister's House passed (9/9). Xang Xừ Líu declined (MyDuyen 9/11 — group busy Oct 24). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). Vòng Tay Nhân Ái (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe — no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 remaining: Laguna Creek VCC. Portal live for krewe waivers. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind).",
+      "summary": "Vietnamese krewe block at Golden Harvest on Capitol Mall. Soft-commit window closed Fri Aug 28; remaining headcounts still welcome. No chartered bus and no staffed light-rail escort this year (announced to VSAs 9/1); parents/guardians arrange transport. COHS VSA committed (Corey 9/4–9/5 — club registered; waiver signed; portal workspace working Sat 9/5). Florin VSA + Florin Asian Club teaming up (Jasmine 9/8 — combined 31; Henry created portal; GH registration soon; carpool). UC Davis VSA registered on the portal (Minh 9/9). Viet Serenity Sisters committed 7 dancers (Nancy 9/9). Jade Rabbit declined (Nam 9/9 — booked Oct 24 12–2pm). My Sister's House passed (9/9). Xang Xừ Líu declined (MyDuyen 9/11 — group busy Oct 24). EGHS VSA leaning no on transport (Jasmine 9/6; not declined). Vòng Tay Nhân Ái (Loving Hearts) will march (Dai Aug 17; headcount TBD). MV NORCAL court walks with the krewe — no float. Red Lotus lion team confirmed at least 6 (Aug 29; drums, cymbals, lions). AABC soft-yes. PGHS VSA declined Aug 15. Wave 2 remaining: Laguna Creek VCC. Portal live for krewe waivers. Parade-day GL quote in flight with broker; VACOS share asked (Tido open to a split if Thuy OK). Bao 9/5: LSK GH sponsorship packet design done (Fund the Krewe leave-behind). Sep 22: draft parade forms sent to Sheldon, Florin (with Asian Club), COHS, UC Davis VSA, Red Lotus, Viet Serenity Sisters, Vòng Tay, and AABC. Host wants at least 15 people per entry.",
       "nextGate": {
-        "label": "Portal beta feedback → parent letter; Thuy on VACOS GL share",
-        "date": null
+        "label": "Completed parade forms back before Oct 20",
+        "date": "2026-10-20"
       },
       "links": [
         {
@@ -152,7 +152,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-18"
+      "lastUpdated": "2026-09-23"
     },
     {
       "id": "toy-drive-2026",
