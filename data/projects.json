@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-08",
   "title": "cPALSs Project Health",
   "subtitle": "Portfolio signal for board members and committee chairs — on track, at risk, or headed toward no-go review.",
   "projects": [
@@ -19,7 +19,7 @@
       "finance": {
         "status": "green",
         "gate": "Support-only spend",
-        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event Helper #M4399884 paid $49.80 Sat Sep 5. Coverage Mon Sep 21. No hosted-festival MVP cash gate."
+        "note": "Host canopy/table/chairs expected. Wish-ribbon activation (no till). Duc Huong skip 8/25. Event-day insurance paid Sat Sep 5. Coverage Mon Sep 21. No hosted-festival MVP cash gate."
       },
       "staffing": {
         "status": "green",
@@ -161,9 +161,9 @@
       "eventDate": "2026-12-06",
       "eventDateLabel": "Sun Dec 6, 2026 · Sunday after Illumination Festival",
       "overall": "yellow",
-      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) — not Dec 18. City booking 3244 (Main Hall; rental 10 AM–10 PM; guest 3:30–7:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26 and confirmed DocuSign Facility Rental already signed (Aug 27). Venue paperwork path clear; full balance later. Vivian is sole cPALSs chair and remains committed (Board 8/28). Journey to the Dumpling committed by text (Vivian 8/28). American Furniture (Lauren / Jimmy) amount TBD. Rod Brewer verbal cash interest (Vivian 9/4). Franklin HS VSA (Katelynn Lam) wants to volunteer again — Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) — chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot still open (chair covering if no sponsor). NVCC standing co-host.",
+      "summary": "Working date Sun Dec 6, 2026 (day after Illumination) — not Dec 18. City booking 3244 (Main Hall; rental 10 AM–10 PM; guest 3:30–7:30). Vivian paid the refundable damage deposit at city hall Wed Aug 26 and confirmed DocuSign Facility Rental already signed (Aug 27). Venue paperwork path clear; full balance later. Ellie King took over as Toy Drive chair at the Oct 6 Board meeting after Vivian Vu stepped down; a committee recruit list and an updated sponsorship packet (Oct 7) are next. Journey to the Dumpling committed by text (Vivian 8/28). American Furniture (Lauren / Jimmy) amount TBD. Rod Brewer verbal cash interest (Vivian 9/4). Franklin HS VSA (Katelynn Lam) wants to volunteer again — Vivian acknowledged 8/26. Idealist director applicant Cindy Chan contact with Vivian (preferred SMS) — chair reply still owed. Special Events supplemental app signed Aug 8. Chocolate / hot-cocoa Fund the Fete slot still open (chair covering if no sponsor). NVCC standing co-host.",
       "nextGate": {
-        "label": "Celebration directors + cocoa station cover",
+        "label": "New chair seats committee + resends sponsorship packet",
         "date": null
       },
       "links": [
@@ -179,19 +179,20 @@
       "finance": {
         "status": "yellow",
         "gate": "Deposit posted + DocuSign signed",
-        "note": "Booking 3244. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). DocuSign Facility Rental signed (Vivian confirmed Aug 27). Full balance later. Chocolate / hot-cocoa station gift still open. Shared CGL stack with broker — EGLNY limit/liquor re-quote in flight. Bao 9/2: helping Toy Drive sponsorship packet (Vivian still chair)."
+        "note": "Booking 3244. Refundable damage deposit paid at city hall Wed Aug 26 (Vivian). DocuSign Facility Rental signed (Vivian confirmed Aug 27). Full balance later. Chocolate / hot-cocoa station gift still open. Shared CGL stack with broker — EGLNY limit/liquor re-quote in flight. Updated sponsorship packet shared Oct 7 (Ellie + Bao); resend to prospects next."
       },
       "staffing": {
         "status": "yellow",
         "filled": [
-          "Event chair — Vivian Vu (sole cPALSs chair)",
+          "Event chair — Ellie King (from Oct 6 Board)",
           "NVCC co-host (standing — always with cPALSs)"
         ],
         "open": [
           "Multiple celebration director lanes",
+          "Committee recruits (Ellie + Bao short list)",
           "Chair response to Idealist director applicant(s)"
         ],
-        "note": "Vivian is sole cPALSs chair as of 2026-08-05; Mamie not co-chairing. Cindy Chan (Kids Games / Crafts / Registration interest) phone + preferred-SMS note with Vivian — chair contact still open. Director slate still forming."
+        "note": "Ellie King became Toy Drive chair at the Oct 6 Board meeting after Vivian Vu stepped down. Mamie not co-chairing. Idealist applicant Cindy Chan (Kids Games / Crafts / Registration) still needs a chair contact. Director slate still forming."
       },
       "criticalPath": [
         {
@@ -230,12 +231,12 @@
           "status": "in_progress"
         },
         {
-          "id": "charity-partners",
+          "id":           "charity-partners",
           "label": "Charity / toy intake partners confirmed",
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-09-05"
+      "lastUpdated": "2026-10-08"
     },
     {
       "id": "lny-2027",
@@ -244,7 +245,7 @@
       "eventDate": "2027-02-13",
       "eventDateLabel": "Sat–Sun Feb 13–14, 2027 · Tết Tailgate Sunday",
       "overall": "yellow",
-      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG will not reopen for 2027; City offered a smaller cash sponsorship instead and extra-duty police is required. Extra-duty insurance bind is later, closer to Toy Drive. Last-cycle claim check was picked up from the City cashier (9/18). Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro ran Sat Sep 12 at Tido’s (11 in the room + 2 on Zoom listening). Working three-lane team email went to team@eglny.com 9/14. Walking procession (no cars) confirmed with VACOS. Public roster still thin. Winter/Spring Activity Guide quarter-page ad due Fri Oct 9 — volunteer designer’s rough save-the-date draft arrived Oct 5; review this week. Park agreement awaiting a resend from the district. Next team meeting Sat Oct 17 afternoon (room TBD). Kaiser Mosaic window open through Oct 31. Sponsorship packet targeted to finish this week.",
+      "summary": "Weekend locked Option A — Feb 13–14 with Sunday Tết Tailgate. Core layout session ran Sat Aug 29 at Kevin’s. Bao booked the 2/10–2/15 park hold with Elizabeth (Aug 13). Steering posture: cPALSs as main relationship holder (VACOS may be included); 8/18 ask still waiting on Elizabeth. Warm-sponsor outbound wave sent Aug 11. City ESG will not reopen for 2027; City offered a smaller cash sponsorship instead and extra-duty police is required. Extra-duty insurance bind is later, closer to Toy Drive. Last-cycle claim check was picked up from the City cashier (9/18). Receipts: SMUD + Hume office reviewing; Verizon reviewing weekend package; Anthem Dec circle-back; Kaiser Oct Mosaic window; Havas/Metro (Angelo) plans return — connect Nov–early Dec. Sky River still Vivian→POC. Broader intro ran Sat Sep 12 at Tido’s (11 in the room + 2 on Zoom listening). Working three-lane team email went to the festival team list 9/14. Walking procession (no cars) confirmed with VACOS. Public roster still thin. Winter/Spring Activity Guide quarter-page save-the-date sent to the district Oct 8, ahead of the Oct 9 deadline (now in district and City review). District says the park agreement goes out for signature Oct 8. Next team meeting Sat Oct 17 afternoon; a restaurant room is being booked. Kaiser Mosaic window open through Oct 31. Sponsorship packet targeted to finish this week.",
       "nextGate": {
         "label": "Amber packet (gates City cash path + wave 2)"
       },
@@ -340,7 +341,7 @@
           "status": "not_started"
         }
       ],
-      "lastUpdated": "2026-10-06"
+      "lastUpdated": "2026-10-08"
     }
   ]
 }
